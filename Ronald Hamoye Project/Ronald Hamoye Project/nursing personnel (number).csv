@@ -1,0 +1,3081 @@
+ParentLocation,Location,Period,FactValueNumeric
+Americas,Brazil,2021,1181537
+Africa,Mozambique,2021,10928
+Europe,Estonia,2021,14854
+Americas,Costa Rica,2021,15784
+Americas,El Salvador,2021,16640
+South-East Asia,Bhutan,2021,1718
+Africa,Togo,2021,1946
+Africa,Guinea-Bissau,2021,1956
+Eastern Mediterranean,Saudi Arabia,2021,196795
+Africa,Nigeria,2021,201735
+Europe,Georgia,2021,21667
+Europe,Belgium,2021,223645
+South-East Asia,Indonesia,2021,244690
+Europe,Lithuania,2021,25736
+Western Pacific,Brunei Darussalam,2021,2613
+Africa,Chad,2021,2677
+Africa,Zambia,2021,32542
+Europe,Montenegro,2021,3303
+Western Pacific,Australia,2021,357674
+Europe,Italy,2021,370887
+Americas,Uruguay,2021,38807
+Americas,Canada,2021,391847
+Europe,Slovakia,2021,41072
+South-East Asia,Sri Lanka,2021,44091
+Western Pacific,Tonga,2021,443
+Africa,Cameroon,2021,4543
+Europe,Israel,2021,47700
+Western Pacific,Philippines,2021,475995
+Western Pacific,Papua New Guinea,2021,5087
+Europe,Cyprus,2021,5328
+Americas,Paraguay,2021,55316
+Western Pacific,New Zealand,2021,55802
+Europe,United Kingdom of Great Britain and Northern Ireland,2021,584385
+Europe,Ireland,2021,64072
+Europe,Hungary,2021,64127
+Americas,Peru,2021,67076
+South-East Asia,Nepal,2021,68316
+Americas,Chile,2021,73684
+Americas,Colombia,2021,74626
+South-East Asia,Bangladesh,2021,77091
+Africa,Burundi,2021,9372
+Europe,Norway,2021,99065
+Europe,Germany,2020,1003000
+Western Pacific,Japan,2020,1526740
+Africa,Sierra Leone,2020,1040
+Africa,Cameroon,2020,11478
+Western Pacific,Palau,2020,115
+Europe,Finland,2020,116554
+Africa,Malawi,2020,13564
+Americas,Panama,2020,13760
+Africa,Guinea-Bissau,2020,1371
+Europe,Albania,2020,15692
+Europe,Switzerland,2020,158714
+South-East Asia,Bhutan,2020,1603
+South-East Asia,Timor-Leste,2020,1627
+Americas,Costa Rica,2020,17006
+Africa,Gambia,2020,1740
+Europe,Republic of Moldova,2020,18314
+Eastern Mediterranean,Oman,2020,18894
+Europe,Netherlands,2020,193206
+Eastern Mediterranean,Saudi Arabia,2020,196701
+South-East Asia,India,2020,2412621
+Eastern Mediterranean,Kuwait,2020,20000
+Europe,Lithuania,2020,21818
+Europe,Sweden,2020,210515
+Europe,Belgium,2020,218665
+Europe,Slovenia,2020,22002
+Europe,Georgia,2020,22126
+Africa,Zimbabwe,2020,22499
+Europe,Türkiye,2020,227292
+Europe,Poland,2020,231612
+Americas,Argentina,2020,241197
+Americas,Guyana,2020,2437
+Africa,Togo,2020,2455
+South-East Asia,Maldives,2020,2519
+Africa,Chad,2020,2623
+Africa,Zambia,2020,27674
+Europe,Spain,2020,289100
+Africa,Eswatini,2020,2917
+Europe,Slovakia,2020,31604
+Europe,Montenegro,2020,3118
+Americas,Mexico,2020,372464
+Europe,Italy,2020,373064
+Africa,Senegal,2020,3800
+Western Pacific,Australia,2020,394682
+Americas,United States of America,2020,4188638
+Western Pacific,China,2020,4708717
+Americas,Guatemala,2020,40066
+Western Pacific,Tuvalu,2020,41
+Americas,Canada,2020,417921
+Western Pacific,Republic of Korea,2020,433993
+South-East Asia,Sri Lanka,2020,44700
+Western Pacific,Tonga,2020,461
+Europe,Israel,2020,47400
+Western Pacific,Philippines,2020,470964
+Africa,Uganda,2020,51327
+Western Pacific,New Zealand,2020,53933
+Africa,Gabon,2020,5481
+Europe,United Kingdom of Great Britain and Northern Ireland,2020,568158
+Western Pacific,Samoa,2020,570
+Europe,Iceland,2020,5727
+Eastern Mediterranean,United Arab Emirates,2020,59043
+South-East Asia,Indonesia,2020,615829
+South-East Asia,Nepal,2020,62075
+Europe,Hungary,2020,64197
+South-East Asia,Bangladesh,2020,66973
+Americas,Chile,2020,67520
+Africa,Ethiopia,2020,69824
+Western Pacific,Lao People's Democratic Republic,2020,6981
+Europe,Malta,2020,7007
+Americas,Colombia,2020,74084
+Europe,Portugal,2020,75009
+Europe,France,2020,764260
+Africa,Burundi,2020,7713
+Europe,Latvia,2020,7952
+Europe,Ireland,2020,80620
+Europe,Russian Federation,2020,860869
+Africa,Mozambique,2020,8831
+Eastern Mediterranean,Iraq,2020,89990
+Europe,Estonia,2020,9080
+Europe,Czechia,2020,92664
+Europe,Austria,2020,93477
+Africa,Ghana,2020,95789
+Europe,Norway,2020,96900
+Europe,Russian Federation,2019,1244755
+Americas,Brazil,2019,1561940
+Africa,Rwanda,2019,10409
+Africa,Côte d’Ivoire,2019,11259
+Africa,Burkina Faso,2019,11364
+Western Pacific,Cook Islands,2019,110
+Western Pacific,Malaysia,2019,111324
+Europe,Sweden,2019,111533
+Europe,Finland,2019,114610
+Africa,Gambia,2019,1148
+Americas,Panama,2019,13612
+Europe,Albania,2019,13633
+South-East Asia,Bhutan,2019,1396
+Europe,Republic of Moldova,2019,15334
+Americas,Dominican Republic,2019,15673
+Europe,Switzerland,2019,154004
+Africa,Chad,2019,1579
+South-East Asia,Timor-Leste,2019,1604
+Americas,Guyana,2019,1775
+Eastern Mediterranean,Oman,2019,18956
+Africa,Nigeria,2019,180709
+Europe,Netherlands,2019,186801
+Eastern Mediterranean,Saudi Arabia,2019,194907
+Europe,Türkiye,2019,198103
+Europe,Georgia,2019,20306
+Europe,Slovenia,2019,21464
+Europe,Lithuania,2019,21629
+Africa,Togo,2019,2134
+Europe,Belgium,2019,214352
+Americas,Suriname,2019,2172
+South-East Asia,Thailand,2019,219473
+Africa,Zambia,2019,23035
+Western Pacific,Micronesia (Federated States of),2019,230
+Americas,Uruguay,2019,24429
+South-East Asia,Maldives,2019,2553
+Africa,Benin,2019,2670
+Europe,Spain,2019,277633
+Eastern Mediterranean,Jordan,2019,30109
+Europe,Montenegro,2019,3051
+Europe,Slovakia,2019,31308
+Western Pacific,Fiji,2019,3256
+Europe,Kyrgyzstan,2019,33518
+Western Pacific,Vanuatu,2019,353
+Europe,Greece,2019,36251
+Americas,Mexico,2019,360210
+Europe,Italy,2019,367684
+South-East Asia,Sri Lanka,2019,39800
+Western Pacific,Australia,2019,391089
+Western Pacific,Papua New Guinea,2019,3975
+Americas,United States of America,2019,4398445
+Western Pacific,China,2019,4445047
+South-East Asia,Myanmar,2019,40830
+Western Pacific,Republic of Korea,2019,410694
+Western Pacific,Tonga,2019,415
+Americas,Canada,2019,423888
+Africa,Sao Tome and Principe,2019,440
+Europe,Israel,2019,45400
+Western Pacific,Philippines,2019,465966
+Africa,Gabon,2019,4711
+Western Pacific,New Zealand,2019,50976
+South-East Asia,Bangladesh,2019,52259
+Americas,Chile,2019,54745
+Europe,United Kingdom of Great Britain and Northern Ireland,2019,547999
+Europe,Iceland,2019,5539
+Eastern Mediterranean,United Arab Emirates,2019,56142
+Americas,Trinidad and Tobago,2019,5636
+Western Pacific,Samoa,2019,574
+South-East Asia,Indonesia,2019,578078
+Europe,Denmark,2019,58910
+South-East Asia,Nepal,2019,60794
+Americas,Antigua and Barbuda,2019,610
+Africa,Senegal,2019,6151
+Europe,Hungary,2019,64722
+Europe,Ireland,2019,65700
+Africa,Ghana,2019,69789
+Americas,Colombia,2019,70051
+Europe,Portugal,2019,72798
+Europe,France,2019,744307
+Africa,Burundi,2019,7518
+Africa,Mozambique,2019,8179
+Europe,Estonia,2019,8279
+Europe,Latvia,2019,8402
+Eastern Mediterranean,Pakistan,2019,88571
+Europe,Czechia,2019,91354
+Europe,Austria,2019,92115
+Western Pacific,Cambodia,2019,9483
+Europe,Norway,2019,95624
+Europe,Germany,2019,980000
+Europe,Russian Federation,2018,1242022
+Western Pacific,Japan,2018,1487444
+Eastern Mediterranean,Lebanon,2018,10379
+Americas,Paraguay,2018,10399
+Western Pacific,Cambodia,2018,11140
+Eastern Mediterranean,Afghanistan,2018,11483
+Americas,El Salvador,2018,11778
+Africa,Nigeria,2018,110105
+Europe,Sweden,2018,110707
+Western Pacific,Malaysia,2018,113848
+Western Pacific,Cook Islands,2018,118
+Africa,Central African Republic,2018,1195
+Western Pacific,Mongolia,2018,12344
+Africa,Angola,2018,12554
+Americas,Panama,2018,12840
+Africa,Comoros,2018,1234
+Africa,Ghana,2018,125024
+Europe,Belgium,2018,126496
+Africa,Guinea-Bissau,2018,1284
+Africa,Rwanda,2018,13345
+Western Pacific,Palau,2018,130
+Eastern Mediterranean,Iran (Islamic Republic of),2018,133657
+South-East Asia,Bhutan,2018,1397
+Americas,Dominican Republic,2018,14519
+Western Pacific,Solomon Islands,2018,1413
+Europe,Switzerland,2018,149791
+South-East Asia,Timor-Leste,2018,1497
+Africa,Gambia,2018,1498
+Africa,Côte d’Ivoire,2018,15163
+Americas,Suriname,2018,1588
+Eastern Mediterranean,Pakistan,2018,165086
+Americas,Costa Rica,2018,17070
+Americas,Bahamas,2018,1761
+Europe,Georgia,2018,18440
+Europe,Republic of Moldova,2018,18752
+Eastern Mediterranean,Saudi Arabia,2018,180571
+Eastern Mediterranean,Egypt,2018,189579
+Europe,Bosnia and Herzegovina,2018,19057
+Eastern Mediterranean,Oman,2018,19415
+Eastern Mediterranean,Qatar,2018,19712
+Europe,Türkiye,2018,190499
+South-East Asia,Thailand,2018,191575
+Europe,Netherlands,2018,192263
+Western Pacific,Marshall Islands,2018,195
+Africa,Togo,2018,1951
+Americas,Brazil,2018,2119620
+South-East Asia,India,2018,2336204
+Western Pacific,Niue,2018,20
+Africa,Zambia,2018,20746
+Europe,Slovenia,2018,21031
+Europe,Lithuania,2018,21793
+Americas,Guatemala,2018,22127
+Eastern Mediterranean,Yemen,2018,22377
+Western Pacific,Micronesia (Federated States of),2018,230
+Americas,Chile,2018,236427
+Americas,Jamaica,2018,2368
+Western Pacific,Brunei Darussalam,2018,2530
+Africa,Zimbabwe,2018,27874
+Europe,Spain,2018,274633
+Eastern Mediterranean,Jordan,2018,28114
+Africa,South Africa,2018,287458
+Europe,Poland,2018,295481
+Western Pacific,Fiji,2018,2982
+South-East Asia,Maldives,2018,2983
+Europe,Bulgaria,2018,30589
+Eastern Mediterranean,Kuwait,2018,30676
+Europe,Montenegro,2018,3040
+Europe,Slovakia,2018,31061
+Africa,United Republic of Tanzania,2018,31940
+Americas,Uruguay,2018,34463
+Africa,Mauritania,2018,3403
+Americas,Colombia,2018,341323
+Africa,Benin,2018,3410
+Europe,Italy,2018,346947
+South-East Asia,Myanmar,2018,35947
+Europe,Greece,2018,36118
+Americas,Mexico,2018,360027
+Americas,Canada,2018,368664
+South-East Asia,Sri Lanka,2018,37000
+Africa,South Sudan,2018,3726
+Western Pacific,Republic of Korea,2018,373601
+Europe,Malta,2018,3772
+Western Pacific,Australia,2018,380132
+Africa,Madagascar,2018,3833
+Western Pacific,Papua New Guinea,2018,3996
+Western Pacific,China,2018,4098630
+Africa,Equatorial Guinea,2018,406
+Africa,Sao Tome and Principe,2018,406
+Africa,Niger,2018,4107
+Western Pacific,Tonga,2018,412
+Western Pacific,Vanuatu,2018,417
+Americas,Ecuador,2018,42811
+Americas,Haiti,2018,4227
+Americas,Antigua and Barbuda,2018,435
+Europe,Israel,2018,44700
+Western Pacific,Kiribati,2018,443
+South-East Asia,Indonesia,2018,448170
+Western Pacific,Philippines,2018,455061
+Americas,Dominica,2018,461
+Eastern Mediterranean,Sudan,2018,47882
+Africa,Eswatini,2018,4706
+Africa,Namibia,2018,4784
+Africa,Chad,2018,4799
+Western Pacific,Samoa,2018,488
+Western Pacific,Tuvalu,2018,49
+Africa,Eritrea,2018,4971
+Africa,Mauritius,2018,4986
+Americas,United States of America,2018,5130507
+Western Pacific,New Zealand,2018,50057
+Africa,Congo,2018,5081
+Europe,Iceland,2018,5174
+Africa,Mali,2018,5174
+Africa,Uganda,2018,52907
+Europe,United Kingdom of Great Britain and Northern Ireland,2018,535453
+South-East Asia,Bangladesh,2018,54599
+Eastern Mediterranean,United Arab Emirates,2018,55158
+Africa,Algeria,2018,56411
+Americas,Trinidad and Tobago,2018,5689
+Africa,Sierra Leone,2018,5757
+Europe,Denmark,2018,58509
+Americas,Venezuela (Bolivarian Republic of),2018,59690
+Africa,Kenya,2018,59901
+Europe,Austria,2018,60694
+Africa,Gabon,2018,6085
+Africa,Ethiopia,2018,61772
+Europe,Ireland,2018,62700
+Europe,Hungary,2018,64695
+Western Pacific,Lao People's Democratic Republic,2018,6724
+Africa,Lesotho,2018,6866
+Americas,Honduras,2018,6986
+Europe,Portugal,2018,70754
+Americas,Grenada,2018,700
+Africa,Cabo Verde,2018,706
+Africa,Guinea,2018,7195
+Europe,France,2018,722572
+Americas,Guyana,2018,731
+Europe,Finland,2018,74824
+Americas,Saint Vincent and the Grenadines,2018,773
+Americas,Peru,2018,78048
+Eastern Mediterranean,Iraq,2018,78588
+Africa,Malawi,2018,7957
+Africa,Mozambique,2018,8153
+Eastern Mediterranean,Occupied Palestinian territory,2018,8286
+Europe,Estonia,2018,8317
+Europe,Latvia,2018,8392
+Western Pacific,Nauru,2018,84
+Americas,Cuba,2018,85732
+Africa,Botswana,2018,8500
+South-East Asia,Nepal,2018,87333
+Americas,Barbados,2018,877
+Americas,Belize,2018,897
+Europe,Czechia,2018,90587
+Africa,Burundi,2018,9156
+Africa,Cameroon,2018,9156
+Africa,Democratic Republic of the Congo,2018,93326
+Europe,Norway,2018,94248
+Africa,Liberia,2018,9415
+Africa,Seychelles,2018,951
+Europe,Germany,2018,955000
+Europe,Russian Federation,2017,1243250
+South-East Asia,India,2017,1980536
+Eastern Mediterranean,Lebanon,2017,10143
+Africa,Burkina Faso,2017,10376
+Eastern Mediterranean,Occupied Palestinian territory,2017,10934
+Eastern Mediterranean,Pakistan,2017,103777
+South-East Asia,Democratic People's Republic of Korea,2017,105125
+Western Pacific,Cook Islands,2017,107
+Western Pacific,Malaysia,2017,107858
+Europe,Sweden,2017,109781
+Western Pacific,Cambodia,2017,11217
+Americas,El Salvador,2017,11738
+Western Pacific,Mongolia,2017,11930
+Americas,Dominican Republic,2017,11973
+Americas,Suriname,2017,1100
+Africa,Gambia,2017,1127
+Americas,Argentina,2017,114219
+Americas,Panama,2017,12676
+South-East Asia,Bhutan,2017,1219
+Europe,Belgium,2017,127681
+Africa,Côte d’Ivoire,2017,13583
+Europe,Romania,2017,141821
+Europe,Switzerland,2017,145602
+Eastern Mediterranean,Saudi Arabia,2017,145611
+Africa,Zambia,2017,15691
+Americas,Costa Rica,2017,15740
+South-East Asia,Timor-Leste,2017,1517
+Eastern Mediterranean,Qatar,2017,16465
+South-East Asia,Maldives,2017,1659
+Europe,Türkiye,2017,166142
+Americas,Bolivia (Plurinational State of),2017,17449
+Eastern Mediterranean,Iran (Islamic Republic of),2017,179855
+Europe,Bosnia and Herzegovina,2017,18650
+Eastern Mediterranean,Oman,2017,18969
+Europe,Georgia,2017,18977
+Eastern Mediterranean,Egypt,2017,185852
+Europe,Netherlands,2017,187345
+Europe,Republic of Moldova,2017,19311
+Europe,Poland,2017,193700
+Africa,Togo,2017,1966
+Americas,Brazil,2017,2017900
+Americas,Guatemala,2017,20341
+Europe,Slovenia,2017,20505
+South-East Asia,Thailand,2017,204675
+Eastern Mediterranean,Yemen,2017,21384
+Europe,Lithuania,2017,21802
+Americas,Chile,2017,211922
+Western Pacific,Brunei Darussalam,2017,2589
+Europe,Spain,2017,267266
+Africa,Zimbabwe,2017,28170
+Eastern Mediterranean,Tunisia,2017,28739
+Africa,Senegal,2017,2820
+Eastern Mediterranean,Jordan,2017,29272
+Eastern Mediterranean,Kuwait,2017,29808
+Europe,Montenegro,2017,2969
+Western Pacific,China,2017,3804021
+Europe,Slovakia,2017,30732
+Europe,Bulgaria,2017,30956
+Africa,United Republic of Tanzania,2017,31940
+South-East Asia,Sri Lanka,2017,33954
+Americas,Grenada,2017,339
+South-East Asia,Indonesia,2017,345276
+Africa,Chad,2017,3487
+Europe,Greece,2017,35592
+Western Pacific,Singapore,2017,35636
+Europe,Italy,2017,351008
+Americas,Mexico,2017,355700
+Western Pacific,Republic of Korea,2017,356880
+Americas,Canada,2017,365450
+Western Pacific,Australia,2017,368249
+Americas,United States of America,2017,4729338
+Eastern Mediterranean,Libya,2017,41934
+Americas,Jamaica,2017,4286
+Americas,Antigua and Barbuda,2017,429
+Americas,Dominica,2017,436
+Europe,Israel,2017,44300
+Western Pacific,Philippines,2017,443808
+Africa,Eswatini,2017,4431
+Africa,Mauritius,2017,4445
+Eastern Mediterranean,Morocco,2017,45326
+Africa,Eritrea,2017,4528
+Africa,Mauritania,2017,4571
+Americas,Ecuador,2017,47444
+Americas,Saint Lucia,2017,476
+Western Pacific,New Zealand,2017,48743
+Africa,Namibia,2017,4853
+South-East Asia,Nepal,2017,49034
+South-East Asia,Bangladesh,2017,49323
+Europe,Iceland,2017,4978
+Americas,Paraguay,2017,5073
+Europe,United Kingdom of Great Britain and Northern Ireland,2017,517230
+Africa,Kenya,2017,53168
+Eastern Mediterranean,United Arab Emirates,2017,53915
+Africa,Gabon,2017,5350
+Europe,Denmark,2017,57821
+Europe,Ireland,2017,58475
+Africa,Ghana,2017,58608
+Americas,Venezuela (Bolivarian Republic of),2017,59099
+Africa,Sierra Leone,2017,5980
+Europe,Austria,2017,60263
+Africa,Uganda,2017,60456
+Americas,Guyana,2017,610
+Americas,Colombia,2017,62184
+Europe,Hungary,2017,63739
+Africa,Equatorial Guinea,2017,634
+Eastern Mediterranean,Afghanistan,2017,6370
+Eastern Mediterranean,Iraq,2017,64275
+Europe,Portugal,2017,68796
+Africa,Cabo Verde,2017,688
+Americas,Honduras,2017,6888
+Americas,Peru,2017,69585
+Americas,Saint Vincent and the Grenadines,2017,693
+Europe,Luxembourg,2017,6992
+Europe,France,2017,700988
+Western Pacific,Lao People's Democratic Republic,2017,7024
+Africa,Democratic Republic of the Congo,2017,73046
+Europe,Finland,2017,73074
+Americas,Trinidad and Tobago,2017,7812
+Africa,Mozambique,2017,7961
+Europe,Estonia,2017,8157
+Americas,Belize,2017,843
+Americas,Cuba,2017,87637
+Africa,Ethiopia,2017,88164
+Europe,Latvia,2017,8872
+Europe,Czechia,2017,90061
+Africa,Burundi,2017,9071
+Europe,Germany,2017,916000
+Africa,Algeria,2017,92000
+Europe,Norway,2017,93203
+Americas,Nicaragua,2017,9912
+Europe,Russian Federation,2016,1241151
+Western Pacific,Japan,2016,1439721
+Americas,Brazil,2016,1927830
+Europe,Albania,2016,10534
+Africa,Guinea,2016,1010
+Western Pacific,Malaysia,2016,104236
+Western Pacific,Viet Nam,2016,106654
+Europe,Sweden,2016,108670
+Africa,Rwanda,2016,11281
+Western Pacific,Cambodia,2016,11344
+Americas,El Salvador,2016,11466
+Western Pacific,Mongolia,2016,11486
+Americas,Dominican Republic,2016,11621
+Americas,Suriname,2016,1104
+Americas,Argentina,2016,112345
+South-East Asia,Bhutan,2016,1129
+Americas,Panama,2016,12056
+Africa,Côte d’Ivoire,2016,12132
+Americas,Bolivia (Plurinational State of),2016,12332
+Europe,Romania,2016,120604
+Western Pacific,Cook Islands,2016,123
+Europe,Belgium,2016,124196
+Eastern Mediterranean,Qatar,2016,13152
+Americas,Costa Rica,2016,14724
+Africa,Togo,2016,1419
+Europe,Switzerland,2016,142522
+Europe,Georgia,2016,15574
+Europe,Türkiye,2016,152952
+Americas,Guatemala,2016,16654
+Europe,Bosnia and Herzegovina,2016,18532
+Eastern Mediterranean,Oman,2016,18744
+Europe,Netherlands,2016,181685
+Eastern Mediterranean,Egypt,2016,181829
+Eastern Mediterranean,Saudi Arabia,2016,183971
+Africa,Nigeria,2016,185101
+Africa,Zimbabwe,2016,19642
+Europe,Slovenia,2016,19933
+South-East Asia,Thailand,2016,191218
+Americas,Chile,2016,193161
+Europe,Poland,2016,195838
+Eastern Mediterranean,Yemen,2016,20335
+Europe,Lithuania,2016,22099
+Africa,Senegal,2016,2490
+Europe,Spain,2016,256333
+Eastern Mediterranean,Syrian Arab Republic,2016,26908
+Western Pacific,Brunei Darussalam,2016,2717
+Western Pacific,Australia,2016,279789
+Eastern Mediterranean,Kuwait,2016,28054
+Europe,Montenegro,2016,2909
+Western Pacific,China,2016,3507166
+Eastern Mediterranean,Tunisia,2016,30049
+Europe,Bulgaria,2016,30978
+Europe,Slovakia,2016,31183
+Africa,Chad,2016,3106
+South-East Asia,Sri Lanka,2016,32330
+South-East Asia,Myanmar,2016,32609
+Eastern Mediterranean,Bahrain,2016,3307
+Europe,Italy,2016,337515
+Europe,Croatia,2016,34184
+Western Pacific,Singapore,2016,34705
+Western Pacific,Republic of Korea,2016,349679
+Europe,Greece,2016,35019
+Americas,Mexico,2016,352139
+Americas,Canada,2016,359473
+Africa,Congo,2016,3717
+South-East Asia,Bangladesh,2016,41697
+Africa,Mauritius,2016,4134
+Europe,Israel,2016,42634
+Africa,Eswatini,2016,4200
+Americas,Antigua and Barbuda,2016,424
+Americas,Jamaica,2016,4282
+Africa,Democratic Republic of the Congo,2016,44897
+Africa,Eritrea,2016,4484
+Africa,Malawi,2016,4573
+Africa,Gabon,2016,4596
+Americas,Ecuador,2016,47065
+Africa,Niger,2016,4746
+Africa,Mali,2016,4765
+Americas,Dominica,2016,477
+Europe,Iceland,2016,4770
+Americas,Paraguay,2016,4770
+Western Pacific,New Zealand,2016,48256
+Africa,Kenya,2016,48737
+Africa,Namibia,2016,4816
+Eastern Mediterranean,United Arab Emirates,2016,51777
+Africa,Sierra Leone,2016,5160
+Europe,United Kingdom of Great Britain and Northern Ireland,2016,517304
+Africa,Ghana,2016,52605
+Eastern Mediterranean,Afghanistan,2016,5243
+Europe,Serbia,2016,53881
+Europe,Ireland,2016,54975
+Africa,Uganda,2016,55228
+Europe,Denmark,2016,56991
+Americas,Guyana,2016,565
+Americas,Colombia,2016,58846
+Americas,Trinidad and Tobago,2016,5874
+Europe,Austria,2016,59165
+Africa,Cabo Verde,2016,612
+Europe,Cyprus,2016,6145
+Eastern Mediterranean,Iraq,2016,62795
+Europe,Hungary,2016,63158
+Europe,Portugal,2016,66796
+Americas,Peru,2016,67298
+Americas,Honduras,2016,6790
+Europe,France,2016,681459
+Europe,Luxembourg,2016,6836
+Africa,Seychelles,2016,684
+Western Pacific,Lao People's Democratic Republic,2016,7054
+Europe,Finland,2016,71302
+Africa,Benin,2016,7224
+Africa,Botswana,2016,7427
+Africa,Mozambique,2016,7660
+Americas,Belize,2016,790
+Europe,Estonia,2016,8029
+Europe,Czechia,2016,83799
+South-East Asia,Maldives,2016,882
+Americas,Cuba,2016,89072
+Europe,Germany,2016,895000
+Africa,Algeria,2016,90958
+Europe,Latvia,2016,9086
+Europe,Norway,2016,91487
+Africa,Guinea-Bissau,2016,918
+Americas,Saint Vincent and the Grenadines,2016,921
+Americas,Nicaragua,2016,9242
+Africa,Burkina Faso,2016,9701
+Eastern Mediterranean,Lebanon,2016,9784
+Eastern Mediterranean,Pakistan,2016,99228
+Europe,Russian Federation,2015,1245594
+Americas,Brazil,2015,1862357
+Africa,Rwanda,2015,10367
+Africa,Côte d’Ivoire,2015,10891
+Americas,Panama,2015,10961
+Western Pacific,Malaysia,2015,101696
+Western Pacific,Viet Nam,2015,102721
+Americas,Saint Vincent and the Grenadines,2015,1037
+Europe,Sweden,2015,107529
+South-East Asia,Bhutan,2015,1070
+Americas,El Salvador,2015,11121
+Western Pacific,Mongolia,2015,11357
+Americas,Suriname,2015,1167
+Europe,Kazakhstan,2015,118693
+South-East Asia,Timor-Leste,2015,1192
+Americas,Costa Rica,2015,12884
+Americas,Bolivia (Plurinational State of),2015,12950
+Americas,Dominican Republic,2015,12988
+Western Pacific,Cook Islands,2015,120
+Europe,Belgium,2015,122127
+Europe,Armenia,2015,13262
+Africa,Togo,2015,1341
+Europe,Switzerland,2015,137306
+Eastern Mediterranean,Iran (Islamic Republic of),2015,148404
+Europe,Georgia,2015,15574
+Americas,Guatemala,2015,15677
+Europe,Türkiye,2015,152803
+South-East Asia,Thailand,2015,155876
+Africa,Senegal,2015,1682
+Europe,Netherlands,2015,178340
+Eastern Mediterranean,Egypt,2015,179450
+Europe,Slovenia,2015,18122
+Eastern Mediterranean,Oman,2015,18665
+Americas,Chile,2015,185763
+Africa,Zimbabwe,2015,19099
+Eastern Mediterranean,Yemen,2015,19190
+Europe,Republic of Moldova,2015,19658
+Europe,Poland,2015,197381
+Europe,Bosnia and Herzegovina,2015,20102
+Americas,Saint Kitts and Nevis,2015,216
+Europe,Lithuania,2015,22260
+South-East Asia,Indonesia,2015,223910
+Africa,Gambia,2015,2372
+Europe,Croatia,2015,24552
+Europe,Spain,2015,245533
+Western Pacific,Fiji,2015,2621
+Eastern Mediterranean,Kuwait,2015,27430
+Western Pacific,Australia,2015,271151
+Western Pacific,Brunei Darussalam,2015,2756
+Europe,Montenegro,2015,2890
+Eastern Mediterranean,Tunisia,2015,29851
+Europe,Andorra,2015,296
+South-East Asia,Maldives,2015,2990
+Western Pacific,China,2015,3241469
+Europe,Slovakia,2015,30904
+Americas,Haiti,2015,3018
+Western Pacific,Republic of Korea,2015,303133
+Europe,Bulgaria,2015,31397
+Eastern Mediterranean,Sudan,2015,32077
+South-East Asia,Sri Lanka,2015,32187
+Africa,Central African Republic,2015,322
+Africa,Niger,2015,3253
+Western Pacific,Singapore,2015,33604
+Europe,Italy,2015,330602
+Americas,Mexico,2015,335693
+Europe,Greece,2015,34718
+Eastern Mediterranean,Bahrain,2015,3422
+Europe,Malta,2015,3431
+Americas,Canada,2015,353738
+Africa,Chad,2015,3563
+Africa,Congo,2015,3852
+Americas,Jamaica,2015,3855
+Africa,Eritrea,2015,3962
+Africa,Eswatini,2015,3976
+Americas,Ecuador,2015,40267
+Europe,Israel,2015,40900
+Africa,Kenya,2015,41413
+South-East Asia,Bangladesh,2015,41478
+Africa,Mauritania,2015,4137
+Americas,Antigua and Barbuda,2015,422
+Africa,Mauritius,2015,4261
+Africa,Namibia,2015,4365
+Africa,Guinea,2015,4389
+Africa,Sao Tome and Principe,2015,442
+Europe,Cyprus,2015,4434
+Americas,Paraguay,2015,4459
+Eastern Mediterranean,Afghanistan,2015,4471
+Eastern Mediterranean,United Arab Emirates,2015,46155
+Western Pacific,New Zealand,2015,47120
+Americas,Dominica,2015,477
+Americas,Trinidad and Tobago,2015,4773
+Africa,Ghana,2015,48939
+Africa,Cabo Verde,2015,498
+Africa,Uganda,2015,50681
+Europe,Iceland,2015,5112
+Europe,United Kingdom of Great Britain and Northern Ireland,2015,515207
+Americas,Guyana,2015,535
+Americas,Colombia,2015,55369
+Europe,Denmark,2015,56372
+Europe,Ireland,2015,58050
+Eastern Mediterranean,Iraq,2015,58687
+Europe,Austria,2015,58732
+Africa,Sierra Leone,2015,5873
+Europe,Serbia,2015,59391
+Americas,Honduras,2015,6038
+Americas,Peru,2015,62954
+Europe,Hungary,2015,63673
+Europe,Portugal,2015,65135
+Europe,France,2015,660611
+Africa,Burundi,2015,6688
+Europe,Luxembourg,2015,6783
+Africa,Mozambique,2015,6927
+Western Pacific,Nauru,2015,70
+Europe,Finland,2015,70881
+Western Pacific,Lao People's Democratic Republic,2015,7078
+Africa,Democratic Republic of the Congo,2015,72270
+Americas,Belize,2015,756
+Europe,The former Yugoslav Republic of Macedonia,2015,7884
+Europe,Estonia,2015,7904
+Europe,Czechia,2015,84450
+Americas,Nicaragua,2015,8505
+Europe,Germany,2015,876000
+Europe,Norway,2015,89836
+Americas,Cuba,2015,89999
+Western Pacific,Cambodia,2015,9140
+Europe,Latvia,2015,9263
+Eastern Mediterranean,Lebanon,2015,9271
+Eastern Mediterranean,Pakistan,2015,94766
+Africa,Guinea-Bissau,2015,964
+Africa,Burkina Faso,2015,9748
+Europe,Belarus,2015,98875
+Western Pacific,Japan,2014,1394985
+Americas,Brazil,2014,1781878
+Europe,Russian Federation,2014,1856334
+Western Pacific,Mongolia,2014,10948
+Western Pacific,Viet Nam,2014,102011
+Europe,Sweden,2014,106275
+Americas,El Salvador,2014,11074
+Americas,Costa Rica,2014,11480
+Americas,Panama,2014,11507
+Western Pacific,Palau,2014,111
+South-East Asia,Timor-Leste,2014,1121
+Americas,Suriname,2014,1126
+Europe,Kazakhstan,2014,115225
+Western Pacific,Cook Islands,2014,116
+Europe,Belgium,2014,118608
+Americas,Dominican Republic,2014,12845
+Eastern Mediterranean,Iran (Islamic Republic of),2014,121166
+Europe,Armenia,2014,13726
+Eastern Mediterranean,Qatar,2014,13771
+Europe,Switzerland,2014,132307
+Europe,Georgia,2014,14809
+Europe,Türkiye,2014,142432
+Americas,Guatemala,2014,15023
+Americas,Chile,2014,153039
+Eastern Mediterranean,Saudi Arabia,2014,160811
+Europe,Slovenia,2014,17650
+Europe,Netherlands,2014,174285
+Eastern Mediterranean,Egypt,2014,176774
+Eastern Mediterranean,Oman,2014,18022
+Eastern Mediterranean,Yemen,2014,18696
+Europe,Poland,2014,199188
+Europe,Bosnia and Herzegovina,2014,20239
+Europe,Republic of Moldova,2014,20881
+Africa,Zimbabwe,2014,20885
+Africa,United Republic of Tanzania,2014,21552
+Europe,Lithuania,2014,22286
+Europe,Turkmenistan,2014,23090
+South-East Asia,Maldives,2014,2336
+Europe,Spain,2014,239333
+Europe,Croatia,2014,24558
+Eastern Mediterranean,Kuwait,2014,24585
+Europe,San Marino,2014,253
+Western Pacific,Brunei Darussalam,2014,2580
+Western Pacific,Australia,2014,264876
+Eastern Mediterranean,Tunisia,2014,27198
+Eastern Mediterranean,Jordan,2014,27601
+Western Pacific,Republic of Korea,2014,282846
+Europe,Ukraine,2014,284207
+Western Pacific,Samoa,2014,288
+Eastern Mediterranean,Morocco,2014,29592
+Western Pacific,China,2014,3004144
+South-East Asia,Sri Lanka,2014,30931
+Europe,Slovakia,2014,31166
+Western Pacific,Singapore,2014,31614
+Europe,Bulgaria,2014,31917
+Europe,Montenegro,2014,3170
+Europe,Uzbekistan,2014,318196
+Europe,Kyrgyzstan,2014,32440
+Europe,Italy,2014,320705
+Americas,Mexico,2014,322524
+South-East Asia,Nepal,2014,33293
+Eastern Mediterranean,Bahrain,2014,3330
+Europe,Tajikistan,2014,34696
+Americas,Ecuador,2014,34985
+Europe,Malta,2014,3412
+Africa,Congo,2014,3458
+Americas,Canada,2014,347636
+Europe,Greece,2014,35223
+Eastern Mediterranean,United Arab Emirates,2014,36478
+Africa,Chad,2014,3606
+Africa,Ghana,2014,37404
+Americas,Jamaica,2014,3795
+South-East Asia,Bangladesh,2014,38452
+Africa,Mauritania,2014,3846
+Africa,Eswatini,2014,3847
+Europe,Israel,2014,39967
+Americas,Paraguay,2014,4054
+Western Pacific,Tuvalu,2014,41
+Africa,Mauritius,2014,4125
+Africa,Eritrea,2014,4132
+Africa,Namibia,2014,4212
+Europe,Cyprus,2014,4268
+Eastern Mediterranean,Syrian Arab Republic,2014,43210
+Eastern Mediterranean,Libya,2014,43216
+Africa,Kenya,2014,43311
+Americas,Antigua and Barbuda,2014,434
+Africa,Uganda,2014,45388
+Eastern Mediterranean,Sudan,2014,45541
+Western Pacific,New Zealand,2014,45572
+Africa,Cabo Verde,2014,476
+Americas,Guyana,2014,479
+Americas,Dominica,2014,481
+Eastern Mediterranean,Djibouti,2014,488
+Eastern Mediterranean,Afghanistan,2014,4925
+Africa,Niger,2014,4940
+Europe,Iceland,2014,5019
+Europe,United Kingdom of Great Britain and Northern Ireland,2014,513108
+Americas,Colombia,2014,52074
+Europe,Denmark,2014,56060
+Europe,Azerbaijan,2014,56148
+Europe,Ireland,2014,56725
+Europe,Serbia,2014,56913
+Africa,Guinea,2014,5789
+Europe,Austria,2014,58040
+Americas,Honduras,2014,6060
+Africa,Sierra Leone,2014,6108
+Americas,Peru,2014,62660
+Europe,Hungary,2014,63289
+Eastern Mediterranean,Iraq,2014,63342
+Europe,Portugal,2014,63792
+Africa,Mozambique,2014,6348
+Africa,Burkina Faso,2014,6358
+Europe,France,2014,638248
+Europe,Luxembourg,2014,6657
+Africa,Burundi,2014,6819
+Europe,Finland,2014,70126
+Americas,Belize,2014,715
+Europe,Monaco,2014,732
+Western Pacific,Lao People's Democratic Republic,2014,7479
+Europe,Estonia,2014,7551
+Eastern Mediterranean,Somalia,2014,825
+Europe,Czechia,2014,83492
+Americas,Nicaragua,2014,8323
+Europe,Norway,2014,86764
+Europe,Germany,2014,868000
+Africa,Guinea-Bissau,2014,885
+Africa,Côte d’Ivoire,2014,8868
+Eastern Mediterranean,Lebanon,2014,8997
+Eastern Mediterranean,Pakistan,2014,90276
+Americas,Cuba,2014,90783
+Western Pacific,Cambodia,2014,9214
+Western Pacific,Malaysia,2014,94668
+South-East Asia,Bhutan,2014,957
+Europe,Latvia,2014,9619
+Africa,Rwanda,2014,9625
+Europe,Belarus,2014,98674
+Americas,Saint Vincent and the Grenadines,2014,984
+Americas,Brazil,2013,1520533
+Europe,Russian Federation,2013,1785165
+Western Pacific,Mongolia,2013,10150
+Americas,Costa Rica,2013,10274
+Europe,Sweden,2013,105277
+South-East Asia,Timor-Leste,2013,1052
+Western Pacific,Cook Islands,2013,108
+Americas,El Salvador,2013,11122
+Americas,Panama,2013,11240
+Europe,Belgium,2013,114959
+Europe,Albania,2013,12455
+Americas,Dominican Republic,2013,12594
+Europe,Romania,2013,120062
+Americas,Suriname,2013,1257
+Europe,Kazakhstan,2013,127208
+Europe,Switzerland,2013,128693
+Europe,Armenia,2013,13788
+Europe,Türkiye,2013,139544
+Europe,Georgia,2013,14725
+Eastern Mediterranean,Oman,2013,16930
+Europe,Slovenia,2013,17133
+Eastern Mediterranean,Yemen,2013,17750
+Eastern Mediterranean,Egypt,2013,174545
+Africa,Zimbabwe,2013,18722
+Europe,Bosnia and Herzegovina,2013,19754
+Western Pacific,China,2013,2783121
+Europe,Poland,2013,200587
+Europe,Netherlands,2013,205514
+Europe,Republic of Moldova,2013,21613
+Eastern Mediterranean,Kuwait,2013,21883
+Europe,Lithuania,2013,22324
+Europe,Turkmenistan,2013,22763
+Europe,Spain,2013,239767
+Europe,Croatia,2013,24803
+Western Pacific,Fiji,2013,2513
+Western Pacific,Australia,2013,257189
+Western Pacific,Brunei Darussalam,2013,2596
+Eastern Mediterranean,Jordan,2013,26775
+Western Pacific,Republic of Korea,2013,262001
+South-East Asia,Nepal,2013,27924
+Europe,San Marino,2013,270
+Americas,Chile,2013,28178
+South-East Asia,Sri Lanka,2013,29224
+Europe,Malta,2013,2974
+Eastern Mediterranean,Morocco,2013,30104
+Western Pacific,Singapore,2013,30392
+South-East Asia,Bangladesh,2013,30516
+Americas,Ecuador,2013,30569
+Eastern Mediterranean,United Arab Emirates,2013,30723
+Europe,Italy,2013,306044
+Europe,Slovakia,2013,31128
+Europe,Tajikistan,2013,31706
+Europe,Kyrgyzstan,2013,31928
+Americas,Mexico,2013,310158
+Europe,Montenegro,2013,3128
+Europe,Uzbekistan,2013,313334
+Europe,Bulgaria,2013,32455
+Europe,Ukraine,2013,324570
+Africa,Congo,2013,3289
+Africa,Niger,2013,3289
+Eastern Mediterranean,Bahrain,2013,3293
+Americas,Canada,2013,334570
+Africa,Madagascar,2013,3438
+Africa,Malawi,2013,3545
+Europe,Greece,2013,36103
+Africa,Chad,2013,3606
+Americas,Paraguay,2013,3681
+Africa,Eswatini,2013,3735
+Americas,Jamaica,2013,3791
+Western Pacific,Tonga,2013,384
+Europe,Israel,2013,39200
+Africa,Mauritius,2013,3963
+Africa,Uganda,2013,40149
+Africa,Kenya,2013,40292
+Africa,Cabo Verde,2013,403
+Africa,Namibia,2013,4110
+Europe,Cyprus,2013,4178
+Americas,Antigua and Barbuda,2013,421
+Africa,Eritrea,2013,4262
+Eastern Mediterranean,Libya,2013,43991
+Western Pacific,New Zealand,2013,44714
+Eastern Mediterranean,Afghanistan,2013,4552
+Americas,Dominica,2013,469
+Americas,Colombia,2013,48658
+Africa,Benin,2013,4880
+Europe,Iceland,2013,5003
+Western Pacific,Kiribati,2013,501
+Europe,United Kingdom of Great Britain and Northern Ireland,2013,509593
+Americas,Peru,2013,54329
+Americas,Guyana,2013,544
+Europe,Serbia,2013,55773
+Europe,Denmark,2013,55889
+Western Pacific,Lao People's Democratic Republic,2013,5525
+Europe,Austria,2013,56747
+Europe,Azerbaijan,2013,56941
+Europe,Ireland,2013,58050
+Africa,Democratic Republic of the Congo,2013,59813
+Africa,Sierra Leone,2013,6106
+Americas,Honduras,2013,6146
+Europe,France,2013,616796
+Africa,Burkina Faso,2013,6196
+Europe,Portugal,2013,63316
+Europe,Hungary,2013,63589
+Africa,Mozambique,2013,6432
+Europe,Luxembourg,2013,6481
+Africa,Burundi,2013,6573
+Eastern Mediterranean,Iraq,2013,67865
+Europe,Monaco,2013,675
+Americas,Belize,2013,676
+Europe,Finland,2013,68576
+Africa,Guinea-Bissau,2013,727
+Africa,Nigeria,2013,74920
+Europe,Estonia,2013,7428
+Eastern Mediterranean,Lebanon,2013,7458
+Europe,The former Yugoslav Republic of Macedonia,2013,7587
+South-East Asia,Bhutan,2013,799
+Americas,Nicaragua,2013,8243
+Europe,Czechia,2013,84045
+Europe,Norway,2013,84664
+Europe,Germany,2013,850000
+Eastern Mediterranean,Pakistan,2013,86183
+Africa,Côte d’Ivoire,2013,8780
+Western Pacific,Cambodia,2013,9082
+Western Pacific,Malaysia,2013,91337
+Americas,Cuba,2013,91364
+Europe,Belarus,2013,97395
+Americas,Saint Vincent and the Grenadines,2013,980
+Europe,Latvia,2013,9831
+Western Pacific,Solomon Islands,2013,998
+Western Pacific,Japan,2012,1344388
+Europe,Russian Federation,2012,1722349
+Western Pacific,Viet Nam,2012,100353
+Europe,Sweden,2012,104123
+Europe,Belgium,2012,111331
+Europe,Romania,2012,116377
+Europe,Albania,2012,12878
+Europe,Switzerland,2012,124534
+Europe,Kazakhstan,2012,125397
+Europe,Armenia,2012,13956
+Europe,Türkiye,2012,134906
+Eastern Mediterranean,Saudi Arabia,2012,139701
+Europe,Georgia,2012,14493
+Africa,Zimbabwe,2012,15536
+Eastern Mediterranean,Oman,2012,15627
+Europe,Slovenia,2012,16794
+Western Pacific,Marshall Islands,2012,175
+Europe,Bosnia and Herzegovina,2012,19980
+Western Pacific,China,2012,2496599
+Africa,United Republic of Tanzania,2012,20800
+Europe,Netherlands,2012,203261
+Eastern Mediterranean,Kuwait,2012,21502
+Europe,Republic of Moldova,2012,22084
+Europe,Turkmenistan,2012,22635
+Europe,Lithuania,2012,22691
+South-East Asia,Nepal,2012,23022
+Americas,Chile,2012,23464
+Western Pacific,Australia,2012,232321
+Africa,Gambia,2012,2386
+Europe,Croatia,2012,24262
+Western Pacific,Republic of Korea,2012,242249
+Europe,Spain,2012,245300
+Eastern Mediterranean,United Arab Emirates,2012,27515
+Europe,San Marino,2012,270
+South-East Asia,Myanmar,2012,28254
+Europe,Malta,2012,2805
+Western Pacific,Samoa,2012,282
+Western Pacific,Brunei Darussalam,2012,2840
+Europe,Poland,2012,285339
+Europe,Montenegro,2012,2853
+South-East Asia,Sri Lanka,2012,29200
+Western Pacific,Singapore,2012,29413
+Americas,Mexico,2012,298907
+Europe,Tajikistan,2012,30245
+South-East Asia,Bangladesh,2012,30680
+Europe,Italy,2012,304197
+Europe,Kyrgyzstan,2012,31081
+Europe,Slovakia,2012,31478
+Europe,Uzbekistan,2012,310313
+Africa,Chad,2012,3141
+Europe,Bulgaria,2012,32059
+Europe,Ukraine,2012,321754
+Eastern Mediterranean,Bahrain,2012,3224
+Americas,Peru,2012,33491
+Africa,Madagascar,2012,3383
+Europe,Greece,2012,36883
+Americas,Belize,2012,373
+Africa,Mauritius,2012,3737
+Europe,Israel,2012,38133
+Western Pacific,Vanuatu,2012,397
+Africa,Uganda,2012,40816
+Americas,Jamaica,2012,4012
+Europe,Cyprus,2012,4106
+Africa,Seychelles,2012,419
+Africa,Mali,2012,4257
+Western Pacific,New Zealand,2012,44190
+Americas,Colombia,2012,45526
+Europe,Iceland,2012,4863
+Europe,United Kingdom of Great Britain and Northern Ireland,2012,506260
+Africa,Benin,2012,5138
+Europe,Serbia,2012,54927
+Europe,Denmark,2012,55694
+Africa,Cabo Verde,2012,551
+Western Pacific,Lao People's Democratic Republic,2012,5581
+Europe,Austria,2012,56085
+Europe,Azerbaijan,2012,57506
+Africa,Botswana,2012,5816
+Africa,Mozambique,2012,5826
+Europe,Ireland,2012,59725
+Europe,France,2012,595594
+Africa,Burkina Faso,2012,6008
+Africa,Kenya,2012,61769
+Europe,Hungary,2012,62742
+Europe,Portugal,2012,62956
+Europe,Luxembourg,2012,6329
+Europe,Monaco,2012,637
+Africa,Burundi,2012,6486
+Americas,Paraguay,2012,6689
+Europe,Finland,2012,67411
+South-East Asia,Bhutan,2012,736
+Europe,The former Yugoslav Republic of Macedonia,2012,7421
+Europe,Estonia,2012,8158
+Americas,Nicaragua,2012,8193
+Eastern Mediterranean,Pakistan,2012,82119
+Europe,Norway,2012,82939
+Europe,Germany,2012,820000
+Europe,Czechia,2012,84688
+Western Pacific,Malaysia,2012,87652
+Western Pacific,Cambodia,2012,8979
+Americas,Cuba,2012,92131
+Americas,Costa Rica,2012,9525
+Western Pacific,Solomon Islands,2012,966
+Europe,Belarus,2012,97871
+Europe,Latvia,2012,9887
+Western Pacific,Mongolia,2012,9916
+Europe,Russian Federation,2011,1253008
+Americas,Bolivia (Plurinational State of),2011,10139
+Europe,Latvia,2011,10206
+Europe,Sweden,2011,102987
+Europe,Belgium,2011,108258
+Europe,Romania,2011,114252
+Europe,Switzerland,2011,119992
+Europe,Albania,2011,12230
+Europe,Kazakhstan,2011,121091
+Europe,Türkiye,2011,124982
+Americas,Dominican Republic,2011,13374
+Europe,Armenia,2011,13927
+Eastern Mediterranean,Saudi Arabia,2011,134632
+Eastern Mediterranean,Oman,2011,14238
+Americas,Bahamas,2011,1458
+Eastern Mediterranean,Iran (Islamic Republic of),2011,149056
+Europe,Georgia,2011,15403
+Africa,Zimbabwe,2011,17022
+Europe,Slovenia,2011,17107
+Africa,Sierra Leone,2011,1752
+Africa,Cameroon,2011,18954
+Americas,Chile,2011,19237
+Europe,Bosnia and Herzegovina,2011,19305
+Western Pacific,Marshall Islands,2011,195
+Europe,Netherlands,2011,198849
+Western Pacific,China,2011,2244020
+Eastern Mediterranean,Kuwait,2011,20596
+Europe,Poland,2011,200850
+Europe,Republic of Moldova,2011,22251
+Europe,Turkmenistan,2011,22299
+Europe,Lithuania,2011,22817
+Western Pacific,Australia,2011,227712
+Europe,Croatia,2011,23892
+Western Pacific,Republic of Korea,2011,235116
+Europe,Spain,2011,243967
+Eastern Mediterranean,United Arab Emirates,2011,25550
+Europe,San Marino,2011,250
+South-East Asia,Myanmar,2011,26928
+Western Pacific,Singapore,2011,26959
+Western Pacific,Brunei Darussalam,2011,2628
+Europe,Tajikistan,2011,27068
+Europe,Malta,2011,2786
+South-East Asia,Sri Lanka,2011,28819
+South-East Asia,Bangladesh,2011,28841
+Americas,Ecuador,2011,29537
+Americas,Mexico,2011,290317
+Europe,Montenegro,2011,2969
+Europe,Kyrgyzstan,2011,30148
+Africa,Benin,2011,3046
+Europe,Uzbekistan,2011,305337
+Europe,Italy,2011,308902
+Europe,Bulgaria,2011,31609
+Eastern Mediterranean,Bahrain,2011,3192
+Europe,Slovakia,2011,32043
+Europe,Ukraine,2011,321073
+Africa,Madagascar,2011,3288
+Western Pacific,Kiribati,2011,334
+Africa,Mauritius,2011,3670
+Europe,Israel,2011,37300
+Europe,Greece,2011,38530
+Africa,Mali,2011,4090
+Europe,Cyprus,2011,4148
+Americas,Colombia,2011,42247
+Americas,Trinidad and Tobago,2011,4379
+Western Pacific,New Zealand,2011,44384
+Americas,Haiti,2011,4678
+Europe,Iceland,2011,4728
+Europe,United Kingdom of Great Britain and Northern Ireland,2011,519163
+Africa,Cabo Verde,2011,543
+Europe,Denmark,2011,55000
+Europe,Austria,2011,55594
+Africa,Mozambique,2011,5575
+Europe,France,2011,567564
+Europe,Azerbaijan,2011,57822
+Europe,Serbia,2011,58228
+Africa,Botswana,2011,5816
+Europe,Luxembourg,2011,5843
+Europe,Ireland,2011,59275
+Europe,Monaco,2011,591
+Africa,Burundi,2011,5957
+Africa,Kenya,2011,60127
+Africa,Burkina Faso,2011,6066
+Europe,Hungary,2011,61915
+Europe,Portugal,2011,62101
+Europe,Finland,2011,65612
+Africa,Rwanda,2011,6724
+Western Pacific,Nauru,2011,70
+Africa,Guinea-Bissau,2011,707
+Africa,Côte d’Ivoire,2011,7361
+Western Pacific,Malaysia,2011,74788
+Europe,The former Yugoslav Republic of Macedonia,2011,7488
+Eastern Mediterranean,Pakistan,2011,77683
+Africa,Congo,2011,7866
+Americas,Nicaragua,2011,8062
+Europe,Norway,2011,81238
+Europe,Germany,2011,814000
+Europe,Estonia,2011,8283
+Europe,Czechia,2011,84328
+Americas,Panama,2011,8579
+Western Pacific,Cambodia,2011,8649
+South-East Asia,Timor-Leste,2011,883
+Americas,Costa Rica,2011,8910
+Europe,Belarus,2011,94935
+Western Pacific,Mongolia,2011,9420
+Western Pacific,Solomon Islands,2011,967
+Europe,Russian Federation,2010,1038459
+Western Pacific,Japan,2010,1294234
+Europe,Latvia,2010,10514
+Africa,Zimbabwe,2010,10525
+Eastern Mediterranean,Qatar,2010,10615
+Africa,Cameroon,2010,10714
+Europe,Sweden,2010,101874
+Americas,Cuba,2010,103014
+Europe,Belgium,2010,104513
+Europe,Albania,2010,11846
+Europe,Romania,2010,112758
+Europe,Switzerland,2010,114575
+Europe,Türkiye,2010,114772
+Western Pacific,Marshall Islands,2010,115
+Western Pacific,Palau,2010,115
+Europe,Kazakhstan,2010,115859
+Eastern Mediterranean,Yemen,2010,12447
+Eastern Mediterranean,Oman,2010,12865
+Eastern Mediterranean,Saudi Arabia,2010,129792
+Europe,Armenia,2010,13766
+Africa,Lesotho,2010,1328
+South-East Asia,Thailand,2010,138710
+Africa,Liberia,2010,1393
+Europe,Georgia,2010,15278
+Americas,Chile,2010,15527
+Europe,Slovenia,2010,16771
+Africa,Congo,2010,1867
+South-East Asia,Maldives,2010,1868
+Europe,Bosnia and Herzegovina,2010,19102
+Eastern Mediterranean,Kuwait,2010,19535
+Europe,Netherlands,2010,195430
+Western Pacific,China,2010,2048071
+Europe,Poland,2010,200769
+Europe,Turkmenistan,2010,21928
+Africa,Nigeria,2010,215055
+Western Pacific,Australia,2010,216338
+Europe,Republic of Moldova,2010,22289
+Africa,Ghana,2010,22507
+Eastern Mediterranean,United Arab Emirates,2010,22682
+Europe,Lithuania,2010,22835
+Western Pacific,Republic of Korea,2010,228614
+Europe,Croatia,2010,23447
+Eastern Mediterranean,Jordan,2010,23559
+Eastern Mediterranean,Tunisia,2010,23836
+Europe,Spain,2010,239867
+Western Pacific,Brunei Darussalam,2010,2399
+Americas,Ecuador,2010,24910
+Africa,Mauritania,2010,2458
+South-East Asia,Myanmar,2010,25644
+Europe,Tajikistan,2010,25720
+Europe,Malta,2010,2686
+South-East Asia,Bangladesh,2010,27005
+Americas,Mexico,2010,275171
+Europe,Kyrgyzstan,2010,28570
+Americas,Saint Vincent and the Grenadines,2010,282
+Western Pacific,Samoa,2010,286
+Western Pacific,Singapore,2010,29053
+Africa,Kenya,2010,29678
+Europe,Uzbekistan,2010,299186
+Americas,United States of America,2010,3891298
+Eastern Mediterranean,Bahrain,2010,3052
+Europe,Montenegro,2010,3054
+Europe,Bulgaria,2010,31786
+Europe,Italy,2010,310005
+Africa,Madagascar,2010,3127
+Africa,Benin,2010,3152
+Europe,Slovakia,2010,32745
+Europe,Ukraine,2010,322076
+Eastern Mediterranean,Syrian Arab Republic,2010,33959
+Western Pacific,Kiribati,2010,330
+Western Pacific,Papua New Guinea,2010,3356
+South-East Asia,Sri Lanka,2010,35367
+Europe,Israel,2010,35900
+Africa,Mauritius,2010,3600
+Western Pacific,Tonga,2010,379
+Europe,Greece,2010,38422
+Americas,Colombia,2010,39226
+Americas,Trinidad and Tobago,2010,3905
+Europe,Cyprus,2010,3946
+Africa,Mali,2010,4080
+Africa,Seychelles,2010,412
+Western Pacific,New Zealand,2010,43789
+Europe,Iceland,2010,4625
+Western Pacific,Lao People's Democratic Republic,2010,4883
+Europe,United Kingdom of Great Britain and Northern Ireland,2010,527962
+Africa,Mozambique,2010,5397
+Europe,Denmark,2010,54481
+Europe,Austria,2010,54617
+Africa,Cabo Verde,2010,543
+Europe,France,2010,547861
+Europe,Luxembourg,2010,5602
+Africa,Burkina Faso,2010,5612
+Africa,Botswana,2010,5816
+Africa,Burundi,2010,5957
+Europe,Azerbaijan,2010,60085
+Europe,Portugal,2010,60106
+Europe,Ireland,2010,61325
+Europe,Hungary,2010,62088
+Europe,Finland,2010,64181
+Americas,Honduras,2010,7151
+Eastern Mediterranean,Pakistan,2010,73244
+Americas,Nicaragua,2010,7366
+Africa,Zambia,2010,7461
+Europe,The former Yugoslav Republic of Macedonia,2010,7463
+Americas,Guyana,2010,754
+Europe,Norway,2010,78857
+Europe,Germany,2010,807000
+Western Pacific,Viet Nam,2010,81543
+Europe,Estonia,2010,8154
+Americas,Bolivia (Plurinational State of),2010,8366
+Europe,Czechia,2010,84796
+Western Pacific,Cambodia,2010,8493
+Americas,Costa Rica,2010,8527
+South-East Asia,Timor-Leste,2010,867
+Eastern Mediterranean,Lebanon,2010,8791
+Western Pacific,Malaysia,2010,90199
+Americas,Panama,2010,9021
+Western Pacific,Mongolia,2010,9179
+Africa,Sierra Leone,2010,922
+Europe,Belarus,2010,95118
+Europe,Russian Federation,2009,1043957
+Western Pacific,China,2009,1854818
+Europe,Latvia,2009,10484
+Europe,Sweden,2009,100353
+Europe,Belgium,2009,101743
+Europe,Türkiye,2009,105176
+Europe,Switzerland,2009,107303
+South-East Asia,Thailand,2009,109797
+Africa,Zimbabwe,2009,11890
+Eastern Mediterranean,Saudi Arabia,2009,110858
+Western Pacific,Palau,2009,112
+Europe,Kazakhstan,2009,113262
+Western Pacific,Cook Islands,2009,116
+Eastern Mediterranean,Oman,2009,12102
+Americas,Guatemala,2009,12452
+Europe,Albania,2009,12455
+Americas,Dominican Republic,2009,12686
+Europe,Romania,2009,122306
+Eastern Mediterranean,Kuwait,2009,13554
+Europe,Armenia,2009,13637
+Europe,Georgia,2009,15094
+Africa,Kenya,2009,15948
+Americas,Suriname,2009,1549
+Europe,Slovenia,2009,16370
+Africa,Nigeria,2009,166173
+Eastern Mediterranean,Afghanistan,2009,17257
+Europe,Bosnia and Herzegovina,2009,18595
+South-East Asia,Maldives,2009,1846
+Europe,Netherlands,2009,192820
+Africa,Mauritania,2009,1953
+Western Pacific,Fiji,2009,1957
+Western Pacific,Brunei Darussalam,2009,1966
+Africa,Ethiopia,2009,20109
+Europe,Poland,2009,200280
+Europe,Turkmenistan,2009,21547
+Western Pacific,Republic of Korea,2009,219675
+Eastern Mediterranean,Jordan,2009,22136
+Europe,Republic of Moldova,2009,22270
+Europe,Tajikistan,2009,22631
+Europe,Croatia,2009,22634
+Eastern Mediterranean,Tunisia,2009,22660
+Western Pacific,Australia,2009,220814
+Europe,Spain,2009,229700
+Eastern Mediterranean,United Arab Emirates,2009,23153
+Europe,Lithuania,2009,23271
+South-East Asia,Myanmar,2009,24242
+Africa,Ghana,2009,24974
+South-East Asia,Bangladesh,2009,25011
+Africa,Democratic Republic of the Congo,2009,25587
+Africa,Niger,2009,2528
+Europe,Malta,2009,2560
+Americas,Ecuador,2009,26208
+Western Pacific,Singapore,2009,26498
+Americas,Mexico,2009,265681
+Africa,Comoros,2009,274
+Americas,Peru,2009,28117
+Europe,Kyrgyzstan,2009,28201
+Europe,Uzbekistan,2009,288784
+Africa,Angola,2009,29592
+Eastern Mediterranean,Morocco,2009,29689
+Africa,Liberia,2009,2982
+Europe,Andorra,2009,299
+Eastern Mediterranean,Bahrain,2009,2990
+Africa,Madagascar,2009,3027
+South-East Asia,Sri Lanka,2009,31297
+Europe,Bulgaria,2009,31961
+Europe,Italy,2009,310530
+Europe,Slovakia,2009,32708
+Europe,Montenegro,2009,3235
+Europe,Ukraine,2009,326698
+Eastern Mediterranean,Syrian Arab Republic,2009,33263
+Europe,Israel,2009,35433
+Africa,Mauritius,2009,3500
+Western Pacific,Tonga,2009,357
+Americas,Colombia,2009,36863
+Europe,Greece,2009,37306
+Europe,Cyprus,2009,3805
+Africa,Mali,2009,3945
+Western Pacific,New Zealand,2009,41871
+Eastern Mediterranean,Libya,2009,42982
+Americas,Trinidad and Tobago,2009,4586
+Africa,Malawi,2009,4812
+Europe,Iceland,2009,4871
+Africa,Cabo Verde,2009,496
+Western Pacific,Lao People's Democratic Republic,2009,4968
+Western Pacific,Philippines,2009,521865
+Africa,Mozambique,2009,5213
+Africa,Burkina Faso,2009,5264
+Americas,Belize,2009,528
+Europe,France,2009,528389
+Europe,United Kingdom of Great Britain and Northern Ireland,2009,530128
+Europe,Austria,2009,54018
+Europe,Denmark,2009,54110
+Africa,Botswana,2009,5424
+Europe,Luxembourg,2009,5533
+Europe,Portugal,2009,57430
+Europe,Ireland,2009,58625
+Europe,Hungary,2009,62272
+Europe,Azerbaijan,2009,62889
+Africa,Central African Republic,2009,628
+Europe,Finland,2009,64158
+Africa,Rwanda,2009,6485
+Eastern Mediterranean,Pakistan,2009,69313
+Western Pacific,Viet Nam,2009,71465
+Africa,Zambia,2009,7123
+Europe,The former Yugoslav Republic of Macedonia,2009,7254
+Americas,Nicaragua,2009,7485
+Eastern Mediterranean,Qatar,2009,7595
+Europe,Norway,2009,76902
+Africa,Cameroon,2009,7626
+Americas,Guyana,2009,789
+Americas,Costa Rica,2009,7971
+Europe,Germany,2009,802000
+Europe,Estonia,2009,8218
+Eastern Mediterranean,Lebanon,2009,8287
+South-East Asia,Timor-Leste,2009,838
+Europe,Czechia,2009,84514
+Africa,Guinea-Bissau,2009,868
+Western Pacific,Cambodia,2009,8720
+Western Pacific,Mongolia,2009,9017
+Western Pacific,Solomon Islands,2009,934
+Europe,Belarus,2009,94248
+Europe,Russian Federation,2008,1038435
+Western Pacific,Japan,2008,1227111
+Western Pacific,China,2008,1678091
+Eastern Mediterranean,Saudi Arabia,2008,101298
+Europe,Kazakhstan,2008,103853
+Europe,Switzerland,2008,103959
+South-East Asia,Thailand,2008,105398
+Eastern Mediterranean,Oman,2008,11233
+Europe,Romania,2008,119453
+Europe,Latvia,2008,12090
+Eastern Mediterranean,Afghanistan,2008,12113
+Eastern Mediterranean,Kuwait,2008,12420
+Africa,Togo,2008,1240
+Europe,Armenia,2008,13742
+Africa,Nigeria,2008,132412
+Americas,Bahamas,2008,1391
+Western Pacific,Niue,2008,14
+Africa,Kenya,2008,14073
+Europe,Georgia,2008,15250
+Africa,Ethiopia,2008,15521
+Europe,Slovenia,2008,15924
+Africa,Ghana,2008,16800
+Africa,Niger,2008,1669
+Eastern Mediterranean,Jordan,2008,17477
+Western Pacific,Fiji,2008,1784
+Europe,Bosnia and Herzegovina,2008,18269
+Americas,Uruguay,2008,19595
+Eastern Mediterranean,United Arab Emirates,2008,19979
+Western Pacific,Brunei Darussalam,2008,1941
+Europe,Poland,2008,197929
+Europe,Turkmenistan,2008,21399
+Europe,Tajikistan,2008,21782
+Western Pacific,Republic of Korea,2008,212138
+Western Pacific,Australia,2008,218928
+Europe,Republic of Moldova,2008,22334
+Eastern Mediterranean,Tunisia,2008,22659
+South-East Asia,Myanmar,2008,22881
+Europe,Spain,2008,221600
+Europe,Croatia,2008,23161
+South-East Asia,Bangladesh,2008,23418
+Europe,Lithuania,2008,23884
+Western Pacific,Singapore,2008,23887
+Americas,Mexico,2008,255607
+Europe,Malta,2008,2647
+Europe,Kyrgyzstan,2008,27948
+Europe,Uzbekistan,2008,283060
+Western Pacific,Papua New Guinea,2008,2844
+Europe,Ukraine,2008,285282
+Eastern Mediterranean,Bahrain,2008,2856
+Africa,Madagascar,2008,2872
+Americas,Jamaica,2008,2930
+Western Pacific,Samoa,2008,298
+South-East Asia,Sri Lanka,2008,30063
+Africa,Central African Republic,2008,300
+Europe,Italy,2008,309323
+Europe,Bulgaria,2008,32314
+Eastern Mediterranean,Sudan,2008,32439
+Europe,Montenegro,2008,3211
+Eastern Mediterranean,Libya,2008,33490
+Europe,Slovakia,2008,33778
+Europe,Netherlands,2008,330055
+Western Pacific,Vanuatu,2008,332
+Americas,Colombia,2008,34390
+Africa,Mauritius,2008,3400
+Western Pacific,Tonga,2008,345
+Europe,Israel,2008,35700
+Europe,Cyprus,2008,3569
+Europe,Greece,2008,36197
+Western Pacific,Kiribati,2008,361
+Eastern Mediterranean,Syrian Arab Republic,2008,38070
+Africa,Malawi,2008,3896
+Africa,Seychelles,2008,407
+Western Pacific,New Zealand,2008,41603
+Africa,Senegal,2008,4457
+Western Pacific,Philippines,2008,465608
+Europe,Iceland,2008,4726
+Africa,Burkina Faso,2008,4745
+Africa,Mozambique,2008,5021
+Europe,France,2008,507514
+Europe,Denmark,2008,52478
+Europe,Austria,2008,52924
+Africa,Botswana,2008,5314
+Europe,United Kingdom of Great Britain and Northern Ireland,2008,536001
+Western Pacific,Tuvalu,2008,54
+Western Pacific,Malaysia,2008,54208
+Europe,Portugal,2008,54680
+Europe,Luxembourg,2008,5425
+Africa,Benin,2008,5974
+Europe,Ireland,2008,60850
+Europe,Hungary,2008,61783
+Europe,Azerbaijan,2008,62509
+Europe,Finland,2008,62811
+Africa,Liberia,2008,623
+Western Pacific,Nauru,2008,64
+Africa,Rwanda,2008,6420
+Western Pacific,Viet Nam,2008,65052
+Eastern Mediterranean,Pakistan,2008,65387
+South-East Asia,Bhutan,2008,666
+Africa,Zambia,2008,6691
+Africa,Côte d’Ivoire,2008,6973
+Europe,The former Yugoslav Republic of Macedonia,2008,7033
+Americas,Nicaragua,2008,7320
+Europe,Norway,2008,74309
+Americas,Costa Rica,2008,7417
+South-East Asia,Timor-Leste,2008,761
+Africa,Guinea-Bissau,2008,784
+Europe,Germany,2008,787000
+Europe,Czechia,2008,82765
+Eastern Mediterranean,Qatar,2008,8428
+Western Pacific,Cambodia,2008,8491
+Europe,Estonia,2008,8577
+Africa,Sierra Leone,2008,880
+Western Pacific,Mongolia,2008,8912
+Africa,Gambia,2008,911
+Europe,Belarus,2008,93138
+South-East Asia,Democratic People's Republic of Korea,2008,93400
+Europe,Sweden,2008,99440
+Europe,Belgium,2008,99805
+Europe,Türkiye,2008,99910
+Europe,Russian Federation,2007,1060117
+Western Pacific,China,2007,1558822
+Eastern Mediterranean,Oman,2007,10394
+Eastern Mediterranean,Kuwait,2007,10832
+Europe,Switzerland,2007,100700
+South-East Asia,Thailand,2007,101143
+Americas,Peru,2007,101630
+Europe,Kazakhstan,2007,107198
+Eastern Mediterranean,Afghanistan,2007,11809
+Europe,Latvia,2007,12174
+Europe,Albania,2007,12746
+Europe,Romania,2007,122054
+Africa,Nigeria,2007,128918
+Europe,Armenia,2007,13710
+Western Pacific,Brunei Darussalam,2007,1458
+Africa,Togo,2007,1468
+Europe,Georgia,2007,15114
+Europe,Slovenia,2007,15585
+South-East Asia,Maldives,2007,1539
+Eastern Mediterranean,Jordan,2007,17027
+Africa,Ethiopia,2007,17134
+Europe,Bosnia and Herzegovina,2007,17708
+Eastern Mediterranean,United Arab Emirates,2007,18384
+Western Pacific,Marshall Islands,2007,188
+Europe,Poland,2007,197452
+Western Pacific,Republic of Korea,2007,201492
+Europe,Spain,2007,208267
+Europe,Tajikistan,2007,21142
+Europe,Turkmenistan,2007,21419
+Western Pacific,Australia,2007,212480
+South-East Asia,Myanmar,2007,22027
+Western Pacific,Singapore,2007,22108
+Europe,Croatia,2007,22307
+Europe,Republic of Moldova,2007,22509
+South-East Asia,Bangladesh,2007,23183
+Europe,Lithuania,2007,23805
+Africa,Mali,2007,2366
+Europe,Malta,2007,2387
+Americas,Mexico,2007,249263
+Europe,Andorra,2007,268
+Europe,Uzbekistan,2007,271912
+Americas,Antigua and Barbuda,2007,277
+Europe,Kyrgyzstan,2007,28282
+Africa,Congo,2007,2855
+Europe,Ukraine,2007,288467
+Africa,Madagascar,2007,2905
+Europe,Italy,2007,307700
+South-East Asia,Sri Lanka,2007,31466
+Americas,Colombia,2007,31994
+Europe,Montenegro,2007,3129
+Europe,Bulgaria,2007,32244
+Eastern Mediterranean,Sudan,2007,32501
+Europe,Netherlands,2007,322605
+Africa,Mauritius,2007,3300
+Europe,Slovakia,2007,34040
+Western Pacific,Vanuatu,2007,344
+Europe,Greece,2007,35658
+Europe,Cyprus,2007,3590
+Europe,Israel,2007,36666
+Eastern Mediterranean,Syrian Arab Republic,2007,37577
+Western Pacific,New Zealand,2007,38925
+Africa,Seychelles,2007,411
+Western Pacific,Philippines,2007,416055
+Europe,Iceland,2007,4361
+Africa,Mozambique,2007,4629
+Americas,Trinidad and Tobago,2007,4677
+Europe,France,2007,487663
+Europe,Denmark,2007,50766
+Europe,Austria,2007,51524
+Europe,Luxembourg,2007,5197
+Europe,Portugal,2007,52184
+Europe,United Kingdom of Great Britain and Northern Ireland,2007,530823
+South-East Asia,Bhutan,2007,545
+Africa,Algeria,2007,57652
+Africa,Namibia,2007,5750
+Africa,Botswana,2007,5765
+Americas,Bolivia (Plurinational State of),2007,5815
+Europe,Hungary,2007,59829
+Europe,Ireland,2007,59975
+Western Pacific,Viet Nam,2007,60329
+Europe,Finland,2007,60456
+Europe,Azerbaijan,2007,62245
+Europe,The former Yugoslav Republic of Macedonia,2007,6535
+Americas,Nicaragua,2007,6610
+Eastern Mediterranean,Lebanon,2007,6931
+Americas,Costa Rica,2007,6956
+Europe,Norway,2007,72873
+South-East Asia,Timor-Leste,2007,728
+Europe,Germany,2007,774000
+Europe,Czechia,2007,82667
+Africa,Cameroon,2007,8226
+Americas,El Salvador,2007,8350
+Europe,Estonia,2007,8585
+Europe,Belarus,2007,90843
+Africa,Gambia,2007,908
+Europe,Türkiye,2007,94661
+Americas,Cuba,2007,97800
+Europe,Belgium,2007,98137
+Europe,Sweden,2007,98348
+Europe,Russian Federation,2006,1061068
+Western Pacific,Japan,2006,1168833
+Western Pacific,China,2006,1426339
+South-East Asia,Thailand,2006,101664
+Europe,Kazakhstan,2006,104339
+Eastern Mediterranean,Afghanistan,2006,11631
+Western Pacific,Palau,2006,117
+Eastern Mediterranean,Iran (Islamic Republic of),2006,118074
+Europe,Latvia,2006,12441
+Europe,Albania,2006,12746
+Europe,Romania,2006,121643
+Africa,Nigeria,2006,125292
+Western Pacific,Niue,2006,13
+Europe,Armenia,2006,13686
+Eastern Mediterranean,United Arab Emirates,2006,14840
+Europe,Slovenia,2006,15248
+Europe,Georgia,2006,15554
+Africa,Ethiopia,2006,16656
+Europe,Bosnia and Herzegovina,2006,17380
+Africa,Chad,2006,1739
+Eastern Mediterranean,Egypt,2006,179590
+Eastern Mediterranean,Jordan,2006,18219
+Eastern Mediterranean,Sudan,2006,18433
+Western Pacific,Republic of Korea,2006,192753
+Europe,Poland,2006,194209
+Europe,Spain,2006,197867
+Western Pacific,Brunei Darussalam,2006,1970
+South-East Asia,Bangladesh,2006,20129
+Europe,Tajikistan,2006,20449
+Western Pacific,Singapore,2006,20615
+South-East Asia,Myanmar,2006,21075
+Europe,Croatia,2006,21838
+Europe,Turkmenistan,2006,21972
+Europe,Republic of Moldova,2006,22450
+Europe,Malta,2006,2280
+Americas,Mexico,2006,238943
+Europe,Lithuania,2006,24137
+Europe,Andorra,2006,248
+South-East Asia,Sri Lanka,2006,25287
+Eastern Mediterranean,Bahrain,2006,2605
+Europe,Uzbekistan,2006,266263
+Europe,Kyrgyzstan,2006,28753
+Africa,Madagascar,2006,2829
+Europe,Ukraine,2006,290072
+Europe,Italy,2006,298849
+Americas,Colombia,2006,30139
+Europe,Montenegro,2006,3074
+Europe,Bulgaria,2006,31599
+Europe,Slovakia,2006,32568
+Europe,Netherlands,2006,320595
+Europe,Cyprus,2006,3477
+Europe,Greece,2006,35797
+Europe,Israel,2006,36800
+Western Pacific,New Zealand,2006,37010
+Western Pacific,Philippines,2006,387134
+Americas,Grenada,2006,398
+Africa,Seychelles,2006,414
+Europe,Iceland,2006,4167
+Africa,Mozambique,2006,4282
+Africa,Congo,2006,4501
+Americas,Trinidad and Tobago,2006,4629
+Africa,Gambia,2006,485
+Europe,Portugal,2006,49261
+Europe,France,2006,493503
+Europe,Austria,2006,50808
+Africa,Botswana,2006,5006
+Europe,Denmark,2006,51919
+Europe,Luxembourg,2006,5171
+Europe,Ireland,2006,53600
+Europe,United Kingdom of Great Britain and Northern Ireland,2006,547238
+Western Pacific,Viet Nam,2006,55421
+Europe,The former Yugoslav Republic of Macedonia,2006,5848
+Europe,Finland,2006,59020
+Africa,Zambia,2006,6096
+Europe,Azerbaijan,2006,61582
+Eastern Mediterranean,Qatar,2006,6185
+Europe,Hungary,2006,62414
+Americas,Nicaragua,2006,6384
+Americas,Costa Rica,2006,6591
+Africa,United Republic of Tanzania,2006,6720
+Americas,Panama,2006,6794
+Europe,Norway,2006,71479
+Europe,Germany,2006,764000
+Europe,Türkiye,2006,82626
+Europe,Czechia,2006,82668
+Europe,Estonia,2006,8492
+Europe,Belarus,2006,90984
+Europe,Belgium,2006,96232
+Europe,Sweden,2006,96596
+Eastern Mediterranean,Oman,2006,9615
+Eastern Mediterranean,Somalia,2006,965
+Europe,Switzerland,2006,97953
+Eastern Mediterranean,Kuwait,2006,9858
+Americas,Uruguay,2006,9948
+Europe,Russian Federation,2005,1045789
+Western Pacific,China,2005,1349589
+Europe,Albania,2005,11136
+Europe,Latvia,2005,11204
+Europe,Romania,2005,118488
+Africa,Nigeria,2005,124629
+Europe,Armenia,2005,13426
+Eastern Mediterranean,United Arab Emirates,2005,13764
+Americas,Barbados,2005,1311
+Eastern Mediterranean,Afghanistan,2005,14930
+Europe,Slovenia,2005,14955
+Eastern Mediterranean,Jordan,2005,15992
+Africa,Comoros,2005,159
+Europe,Georgia,2005,16128
+Europe,Bosnia and Herzegovina,2005,17082
+Africa,Ethiopia,2005,17300
+Western Pacific,Republic of Korea,2005,185195
+Europe,Tajikistan,2005,19764
+South-East Asia,Myanmar,2005,19776
+Western Pacific,Singapore,2005,19820
+Europe,Spain,2005,190400
+Europe,Poland,2005,194205
+Western Pacific,Australia,2005,196998
+South-East Asia,Bangladesh,2005,20117
+South-East Asia,Sri Lanka,2005,20247
+Western Pacific,Brunei Darussalam,2005,2006
+Europe,Croatia,2005,21464
+Europe,Turkmenistan,2005,22381
+Europe,Republic of Moldova,2005,22671
+Europe,Malta,2005,2221
+Americas,Mexico,2005,233769
+Eastern Mediterranean,Bahrain,2005,2389
+Europe,Lithuania,2005,24247
+Europe,Andorra,2005,252
+Europe,Uzbekistan,2005,267901
+Americas,Colombia,2005,28163
+Europe,Italy,2005,288412
+Eastern Mediterranean,Syrian Arab Republic,2005,29110
+Europe,Kyrgyzstan,2005,29818
+Europe,Ukraine,2005,291333
+Eastern Mediterranean,Djibouti,2005,296
+Europe,Montenegro,2005,3072
+Europe,Cyprus,2005,3096
+Europe,Bulgaria,2005,31235
+Europe,Netherlands,2005,319190
+Europe,Slovakia,2005,32319
+Americas,Saint Lucia,2005,326
+Africa,Madagascar,2005,3434
+Europe,Israel,2005,36267
+Europe,Greece,2005,36666
+Western Pacific,Philippines,2005,369065
+Western Pacific,New Zealand,2005,37316
+Africa,Uganda,2005,37625
+Africa,Seychelles,2005,390
+Africa,Mozambique,2005,4040
+Europe,Iceland,2005,4146
+Africa,Botswana,2005,4468
+Europe,Portugal,2005,46518
+Eastern Mediterranean,Lebanon,2005,4720
+Africa,Gambia,2005,476
+Europe,France,2005,478483
+Eastern Mediterranean,Qatar,2005,4880
+Europe,Austria,2005,49294
+Europe,Ireland,2005,50800
+Western Pacific,Viet Nam,2005,51573
+Europe,Denmark,2005,51946
+Europe,Luxembourg,2005,5101
+Europe,United Kingdom of Great Britain and Northern Ireland,2005,552405
+Europe,Finland,2005,56874
+Europe,The former Yugoslav Republic of Macedonia,2005,5697
+Western Pacific,Lao People's Democratic Republic,2005,5724
+Europe,Hungary,2005,59992
+Europe,Azerbaijan,2005,60778
+Africa,Zambia,2005,6096
+Western Pacific,Solomon Islands,2005,620
+Americas,Costa Rica,2005,6232
+Americas,Nicaragua,2005,6294
+Americas,Panama,2005,6675
+Africa,Cameroon,2005,6705
+Africa,Côte d’Ivoire,2005,6842
+Europe,Norway,2005,69399
+Europe,Germany,2005,757000
+Americas,Honduras,2005,7796
+Europe,Türkiye,2005,78182
+Europe,Czechia,2005,82835
+Europe,Estonia,2005,8515
+Europe,Belarus,2005,90904
+Eastern Mediterranean,Oman,2005,9277
+Europe,Switzerland,2005,94240
+Europe,Belgium,2005,94401
+Europe,Sweden,2005,94653
+South-East Asia,India,2005,959677
+Europe,Kazakhstan,2005,97631
+Eastern Mediterranean,Iran (Islamic Republic of),2005,98020
+Europe,Russian Federation,2004,1046030
+Western Pacific,Japan,2004,1122779
+Western Pacific,China,2004,1308433
+Europe,Latvia,2004,11035
+Europe,Albania,2004,11136
+Europe,Romania,2004,115983
+Western Pacific,Palau,2004,120
+Africa,Sierra Leone,2004,1211
+Europe,Armenia,2004,13120
+Eastern Mediterranean,Yemen,2004,13333
+Eastern Mediterranean,United Arab Emirates,2004,13636
+Africa,Ethiopia,2004,14269
+Europe,Slovenia,2004,14775
+Africa,Uganda,2004,14805
+Eastern Mediterranean,Egypt,2004,144984
+South-East Asia,Timor-Leste,2004,1467
+Africa,Ghana,2004,15797
+Africa,Kenya,2004,16146
+Europe,Georgia,2004,16230
+Eastern Mediterranean,Jordan,2004,16527
+Europe,Bosnia and Herzegovina,2004,16894
+Africa,Mauritania,2004,1658
+Africa,Togo,2004,1667
+Eastern Mediterranean,Sudan,2004,17656
+Africa,Angola,2004,18485
+Western Pacific,Singapore,2004,18964
+Western Pacific,Republic of Korea,2004,182612
+Africa,South Africa,2004,184459
+Europe,Spain,2004,184600
+Eastern Mediterranean,Djibouti,2004,185
+Europe,Poland,2004,188226
+Europe,Tajikistan,2004,19860
+Western Pacific,Brunei Darussalam,2004,1925
+Western Pacific,Niue,2004,20
+Europe,Republic of Moldova,2004,20756
+Western Pacific,Australia,2004,203517
+Europe,Croatia,2004,21294
+Europe,Malta,2004,2136
+Africa,Chad,2004,2146
+Europe,Andorra,2004,216
+Africa,Equatorial Guinea,2004,218
+Eastern Mediterranean,Morocco,2004,22250
+Americas,Mexico,2004,220803
+South-East Asia,Sri Lanka,2004,23030
+Europe,Turkmenistan,2004,23298
+Western Pacific,Kiribati,2004,230
+Africa,Eritrea,2004,2365
+Europe,Lithuania,2004,24488
+Africa,Niger,2004,2421
+Eastern Mediterranean,Tunisia,2004,25654
+Africa,Cameroon,2004,25997
+Americas,Suriname,2004,2523
+Africa,Sao Tome and Principe,2004,256
+Europe,Uzbekistan,2004,257113
+Africa,Madagascar,2004,2584
+Americas,Colombia,2004,26167
+Africa,Senegal,2004,2606
+Eastern Mediterranean,Libya,2004,27160
+Eastern Mediterranean,Syrian Arab Republic,2004,28665
+Europe,Bulgaria,2004,29769
+Europe,Ukraine,2004,291535
+Europe,Italy,2004,295232
+Europe,Kyrgyzstan,2004,30783
+Western Pacific,Vanuatu,2004,310
+Europe,Netherlands,2004,315145
+Africa,Congo,2004,3214
+Europe,Cyprus,2004,3247
+South-East Asia,Bhutan,2004,330
+Europe,Slovakia,2004,34007
+Europe,Israel,2004,35100
+Western Pacific,Philippines,2004,359052
+Europe,Greece,2004,36133
+Americas,Saint Lucia,2004,375
+Western Pacific,New Zealand,2004,38484
+Africa,Mozambique,2004,3947
+Europe,Iceland,2004,3999
+Africa,Guinea,2004,4061
+Europe,Luxembourg,2004,4166
+Africa,Burkina Faso,2004,4268
+Europe,Portugal,2004,44272
+Africa,Mauritius,2004,4438
+Africa,Eswatini,2004,4590
+Africa,Gambia,2004,460
+Europe,France,2004,461503
+Africa,Botswana,2004,4753
+Europe,Austria,2004,48435
+Eastern Mediterranean,Pakistan,2004,48446
+Africa,Comoros,2004,481
+Africa,Benin,2004,4965
+Europe,Ireland,2004,50200
+Americas,Saint Vincent and the Grenadines,2004,504
+Europe,Denmark,2004,51044
+Europe,Finland,2004,54876
+Europe,United Kingdom of Great Britain and Northern Ireland,2004,541622
+Western Pacific,Lao People's Democratic Republic,2004,5600
+South-East Asia,Nepal,2004,5664
+Europe,Hungary,2004,58399
+Europe,The former Yugoslav Republic of Macedonia,2004,5870
+Africa,Liberia,2004,589
+Europe,Azerbaijan,2004,59746
+Africa,Mali,2004,5986
+Western Pacific,Cook Islands,2004,60
+Western Pacific,Nauru,2004,60
+Americas,Costa Rica,2004,6035
+Africa,Namibia,2004,6145
+Africa,Gabon,2004,6275
+Africa,Seychelles,2004,634
+Americas,Panama,2004,6509
+Europe,Norway,2004,66986
+Americas,Brazil,2004,686089
+Africa,Malawi,2004,7264
+Europe,Germany,2004,745000
+Europe,Türkiye,2004,75753
+Africa,Côte d’Ivoire,2004,7773
+Europe,Czechia,2004,82743
+Eastern Mediterranean,Iran (Islamic Republic of),2004,83175
+Europe,Estonia,2004,8509
+Eastern Mediterranean,Oman,2004,8746
+South-East Asia,Maldives,2004,886
+Europe,Belarus,2004,90383
+Africa,Central African Republic,2004,908
+Europe,Belgium,2004,91644
+Africa,Guinea-Bissau,2004,912
+South-East Asia,India,2004,915528
+Europe,Sweden,2004,92514
+Europe,Switzerland,2004,94002
+Europe,Kazakhstan,2004,95047
+South-East Asia,Thailand,2004,95834
+Europe,Russian Federation,2003,1042843
+Western Pacific,China,2003,1265959
+South-East Asia,India,2003,1382901
+Europe,Latvia,2003,10791
+Europe,Albania,2003,11238
+Africa,Lesotho,2003,1123
+Europe,Romania,2003,114783
+South-East Asia,Indonesia,2003,125621
+Africa,Nigeria,2003,127580
+Europe,Armenia,2003,13362
+Western Pacific,Niue,2003,14
+Africa,Ethiopia,2003,14270
+Europe,Slovenia,2003,14673
+Eastern Mediterranean,United Arab Emirates,2003,14680
+Eastern Mediterranean,Jordan,2003,14687
+Europe,Georgia,2003,16563
+Europe,Bosnia and Herzegovina,2003,16958
+Africa,Gambia,2003,1618
+Western Pacific,Fiji,2003,1660
+Western Pacific,Republic of Korea,2003,169555
+Africa,South Africa,2003,177721
+Europe,Spain,2003,180833
+Europe,Poland,2003,181291
+Americas,Ecuador,2003,19348
+South-East Asia,Bangladesh,2003,19500
+Europe,Tajikistan,2003,19540
+Western Pacific,Australia,2003,195975
+Eastern Mediterranean,Tunisia,2003,20674
+Europe,Croatia,2003,20896
+Europe,Andorra,2003,205
+Europe,Malta,2003,2069
+Europe,Republic of Moldova,2003,21391
+Americas,Mexico,2003,220285
+Eastern Mediterranean,Bahrain,2003,2200
+Americas,Colombia,2003,24353
+Europe,Lithuania,2003,25015
+Western Pacific,Samoa,2003,250
+Europe,Uzbekistan,2003,256183
+Africa,Madagascar,2003,2638
+Eastern Mediterranean,Syrian Arab Republic,2003,27045
+Europe,Bulgaria,2003,29650
+Europe,Ukraine,2003,292815
+Europe,Italy,2003,300365
+Europe,Cyprus,2003,3069
+Europe,Kyrgyzstan,2003,31557
+Europe,Netherlands,2003,310140
+Europe,Turkmenistan,2003,33571
+Europe,Slovakia,2003,35113
+Europe,Israel,2003,35300
+Western Pacific,Philippines,2003,351858
+Europe,Greece,2003,36319
+Western Pacific,New Zealand,2003,36514
+Americas,Grenada,2003,366
+Africa,Mozambique,2003,3763
+Europe,Iceland,2003,3948
+Americas,Trinidad and Tobago,2003,3980
+Western Pacific,Tuvalu,2003,40
+Europe,Luxembourg,2003,4037
+Europe,Portugal,2003,43849
+Americas,Jamaica,2003,4374
+Africa,Botswana,2003,4450
+Europe,France,2003,446100
+Europe,Austria,2003,46147
+Americas,Saint Lucia,2003,495
+Europe,Denmark,2003,50064
+Europe,United Kingdom of Great Britain and Northern Ireland,2003,530063
+Americas,Costa Rica,2003,5717
+Europe,Hungary,2003,58457
+Europe,Ireland,2003,58981
+Europe,The former Yugoslav Republic of Macedonia,2003,5834
+Americas,Nicaragua,2003,5862
+Europe,Azerbaijan,2003,59531
+Western Pacific,Solomon Islands,2003,630
+Europe,Norway,2003,64744
+Americas,Brazil,2003,665342
+Americas,Panama,2003,7055
+Europe,Germany,2003,738000
+Europe,Türkiye,2003,74483
+Europe,Czechia,2003,81384
+Europe,Estonia,2003,8412
+South-East Asia,Democratic People's Republic of Korea,2003,87330
+Europe,Finland,2003,87434
+Europe,Belarus,2003,89525
+Europe,Sweden,2003,90454
+Europe,Kazakhstan,2003,92773
+Europe,Switzerland,2003,94263
+Europe,Russian Federation,2002,1039555
+Western Pacific,Japan,2002,1074629
+Western Pacific,China,2002,1246545
+Europe,Latvia,2002,10543
+Africa,United Republic of Tanzania,2002,10729
+Europe,Albania,2002,11470
+Europe,Romania,2002,117207
+Eastern Mediterranean,United Arab Emirates,2002,13211
+South-East Asia,Sri Lanka,2002,13577
+Eastern Mediterranean,Jordan,2002,13613
+Europe,Armenia,2002,13962
+Europe,Slovenia,2002,14281
+Europe,Georgia,2002,16703
+Europe,Bosnia and Herzegovina,2002,16791
+Western Pacific,Republic of Korea,2002,163203
+Western Pacific,Brunei Darussalam,2002,1650
+Europe,Spain,2002,168833
+Africa,South Africa,2002,172869
+Europe,Poland,2002,185892
+Western Pacific,Australia,2002,193853
+Americas,Ecuador,2002,20299
+Europe,Croatia,2002,20796
+Europe,Tajikistan,2002,20951
+Europe,Malta,2002,2057
+Europe,Andorra,2002,211
+Eastern Mediterranean,Bahrain,2002,2111
+Europe,Republic of Moldova,2002,22011
+Americas,Colombia,2002,22888
+Americas,Mexico,2002,226034
+Europe,Lithuania,2002,25600
+Europe,Uzbekistan,2002,254666
+Africa,Madagascar,2002,2638
+Eastern Mediterranean,Syrian Arab Republic,2002,28325
+Europe,Bulgaria,2002,28508
+Americas,Uruguay,2002,2880
+Western Pacific,Tuvalu,2002,29
+Europe,Ukraine,2002,294327
+Europe,Cyprus,2002,2994
+Europe,Netherlands,2002,302110
+Europe,Turkmenistan,2002,31271
+Europe,Italy,2002,319334
+Europe,Kyrgyzstan,2002,32214
+Western Pacific,Tonga,2002,330
+Western Pacific,Malaysia,2002,34510
+Europe,Luxembourg,2002,3464
+Western Pacific,Philippines,2002,347227
+Europe,Israel,2002,35534
+Africa,Mozambique,2002,3581
+Europe,Greece,2002,36063
+Americas,Grenada,2002,366
+Western Pacific,New Zealand,2002,37097
+Europe,Slovakia,2002,37265
+Americas,Trinidad and Tobago,2002,3815
+Europe,Iceland,2002,3816
+Europe,Portugal,2002,41799
+Africa,Botswana,2002,4146
+Europe,France,2002,431565
+Europe,Austria,2002,45879
+Western Pacific,Viet Nam,2002,46560
+Europe,Denmark,2002,50754
+Europe,United Kingdom of Great Britain and Northern Ireland,2002,513798
+Americas,Costa Rica,2002,5303
+Eastern Mediterranean,Djibouti,2002,550
+Europe,Hungary,2002,57721
+Europe,Azerbaijan,2002,59101
+Europe,Ireland,2002,60084
+Americas,Panama,2002,6035
+Americas,Brazil,2002,606291
+Europe,The former Yugoslav Republic of Macedonia,2002,6127
+Africa,Algeria,2002,62177
+Europe,Norway,2002,62338
+Europe,Türkiye,2002,72393
+Europe,Germany,2002,723000
+Europe,Czechia,2002,81491
+Western Pacific,Mongolia,2002,8214
+Europe,Estonia,2002,8294
+Americas,Cuba,2002,83880
+South-East Asia,Thailand,2002,84683
+Europe,Finland,2002,86009
+Europe,Sweden,2002,89138
+Europe,Switzerland,2002,89670
+Europe,Belarus,2002,90230
+Europe,Kazakhstan,2002,91438
+Americas,Paraguay,2002,9727
+Europe,Russian Federation,2001,1020140
+South-East Asia,India,2001,1270299
+Western Pacific,China,2001,1286938
+Europe,Latvia,2001,10548
+Europe,Albania,2001,11993
+Europe,Romania,2001,113479
+Eastern Mediterranean,United Arab Emirates,2001,12280
+Europe,Slovenia,2001,14194
+Eastern Mediterranean,Jordan,2001,14621
+Europe,Armenia,2001,14910
+Europe,Malta,2001,1473
+South-East Asia,Sri Lanka,2001,15797
+Western Pacific,Republic of Korea,2001,151351
+Europe,Spain,2001,158300
+Americas,Barbados,2001,1580
+Europe,Bosnia and Herzegovina,2001,16512
+Europe,Georgia,2001,16966
+Western Pacific,Singapore,2001,17398
+Americas,Bolivia (Plurinational State of),2001,17995
+Europe,Netherlands,2001,170015
+Africa,South Africa,2001,172338
+Europe,Poland,2001,186491
+Americas,Ecuador,2001,19390
+Western Pacific,Australia,2001,191731
+Europe,Tajikistan,2001,20676
+Europe,Croatia,2001,20694
+Europe,Andorra,2001,204
+Americas,Colombia,2001,21340
+Eastern Mediterranean,Bahrain,2001,2166
+Europe,Republic of Moldova,2001,22095
+Americas,Mexico,2001,223315
+Europe,Uzbekistan,2001,252430
+Europe,Lithuania,2001,26284
+Americas,Venezuela (Bolivarian Republic of),2001,28000
+Europe,Bulgaria,2001,29769
+Americas,Saint Kitts and Nevis,2001,294
+Europe,Cyprus,2001,2963
+Europe,Ukraine,2001,297192
+Europe,Italy,2001,315147
+Europe,Greece,2001,32068
+Western Pacific,Tonga,2001,322
+Europe,Luxembourg,2001,3296
+Europe,Kyrgyzstan,2001,33698
+Western Pacific,Philippines,2001,342441
+Europe,Israel,2001,35366
+Americas,Trinidad and Tobago,2001,3532
+Europe,Turkmenistan,2001,36351
+Africa,Mozambique,2001,3646
+Americas,Grenada,2001,366
+Americas,Saint Lucia,2001,371
+Europe,Iceland,2001,3745
+Europe,Slovakia,2001,39073
+Africa,Botswana,2001,3994
+Eastern Mediterranean,Pakistan,2001,40019
+Eastern Mediterranean,Lebanon,2001,4157
+Europe,France,2001,418571
+Americas,Dominica,2001,438
+Western Pacific,Viet Nam,2001,44539
+Europe,Austria,2001,44916
+Americas,Saint Vincent and the Grenadines,2001,476
+Western Pacific,Cook Islands,2001,49
+Europe,United Kingdom of Great Britain and Northern Ireland,2001,493698
+Europe,Denmark,2001,50005
+Americas,Costa Rica,2001,5106
+Americas,Brazil,2001,529765
+Europe,Hungary,2001,56237
+Americas,Panama,2001,5689
+Europe,Ireland,2001,57059
+Europe,The former Yugoslav Republic of Macedonia,2001,5848
+Europe,Azerbaijan,2001,59872
+Western Pacific,New Zealand,2001,68431
+Europe,Germany,2001,713000
+Europe,Türkiye,2001,72607
+South-East Asia,Thailand,2001,78042
+Europe,Czechia,2001,80206
+Europe,Estonia,2001,8050
+Europe,Finland,2001,83952
+Europe,Switzerland,2001,86048
+Europe,Sweden,2001,86988
+Europe,Kazakhstan,2001,88140
+Europe,Belarus,2001,89772
+Eastern Mediterranean,Kuwait,2001,9197
+Europe,Russian Federation,2000,1013636
+South-East Asia,India,2000,1231322
+Western Pacific,China,2000,1266838
+Eastern Mediterranean,United Arab Emirates,2000,10659
+Europe,Latvia,2000,10842
+Europe,Romania,2000,111934
+Europe,Albania,2000,12570
+Europe,Slovenia,2000,13633
+Eastern Mediterranean,Jordan,2000,14353
+South-East Asia,Sri Lanka,2000,14986
+Western Pacific,Republic of Korea,2000,140288
+Europe,Spain,2000,143567
+Americas,Dominican Republic,2000,15352
+Americas,Barbados,2000,1582
+Europe,Armenia,2000,16295
+Europe,Bosnia and Herzegovina,2000,16763
+Europe,Netherlands,2000,163915
+Africa,South Africa,2000,171645
+Americas,Guyana,2000,1738
+Europe,Georgia,2000,18649
+Europe,Poland,2000,189632
+Americas,Ecuador,2000,19549
+Americas,Colombia,2000,19690
+Western Pacific,Australia,2000,191568
+Eastern Mediterranean,Bahrain,2000,1981
+Europe,Croatia,2000,20664
+Europe,Andorra,2000,207
+Europe,Tajikistan,2000,22105
+Europe,Republic of Moldova,2000,22450
+Europe,Uzbekistan,2000,249337
+Europe,Lithuania,2000,26706
+Eastern Mediterranean,Syrian Arab Republic,2000,27164
+Western Pacific,Papua New Guinea,2000,2841
+Europe,Greece,2000,29704
+Europe,Cyprus,2000,2931
+Europe,Ukraine,2000,300682
+Americas,Belize,2000,303
+Americas,Mexico,2000,309331
+Western Pacific,Malaysia,2000,31129
+Europe,Bulgaria,2000,31479
+Europe,Italy,2000,312046
+Europe,Luxembourg,2000,3220
+Americas,Trinidad and Tobago,2000,3294
+Africa,Eswatini,2000,3345
+Western Pacific,Philippines,2000,336650
+Europe,Israel,2000,34166
+Europe,Kyrgyzstan,2000,35935
+Africa,Guinea,2000,3506
+Europe,Turkmenistan,2000,36182
+Eastern Mediterranean,Saudi Arabia,2000,36495
+Americas,Grenada,2000,366
+Africa,Mozambique,2000,3664
+Eastern Mediterranean,Pakistan,2000,37528
+Europe,Iceland,2000,3728
+Europe,Slovakia,2000,40077
+Europe,France,2000,404564
+Africa,Botswana,2000,4319
+Europe,Austria,2000,44426
+Americas,Saint Vincent and the Grenadines,2000,447
+Americas,Costa Rica,2000,4639
+Europe,United Kingdom of Great Britain and Northern Ireland,2000,479868
+Europe,Denmark,2000,49706
+Europe,Ireland,2000,53072
+Europe,Hungary,2000,53880
+Western Pacific,Lao People's Democratic Republic,2000,5453
+Europe,The former Yugoslav Republic of Macedonia,2000,5817
+Europe,Azerbaijan,2000,60031
+Americas,Brazil,2000,659111
+Western Pacific,New Zealand,2000,67816
+Americas,Suriname,2000,688
+Europe,Türkiye,2000,69550
+Europe,Germany,2000,705000
+Europe,Czechia,2000,77998
+Eastern Mediterranean,Oman,2000,7829
+Western Pacific,Cambodia,2000,8085
+Europe,Finland,2000,81956
+Europe,Estonia,2000,8153
+Europe,Switzerland,2000,83273
+Americas,Honduras,2000,8333
+Europe,Kazakhstan,2000,84432
+Europe,Sweden,2000,85494
+Africa,Chad,2000,886
+Europe,Belarus,2000,89092
+Western Pacific,Brunei Darussalam,2000,892
+Western Pacific,China,1999,1244844
+Eastern Mediterranean,United Arab Emirates,1999,10799
+Europe,Latvia,1999,11140
+Europe,Albania,1999,12730
+Eastern Mediterranean,Jordan,1999,13582
+Europe,Slovenia,1999,13631
+Western Pacific,Republic of Korea,1999,135923
+Europe,Spain,1999,136300
+South-East Asia,Sri Lanka,1999,14052
+Western Pacific,Singapore,1999,15498
+Western Pacific,Fiji,1999,1576
+Europe,Bosnia and Herzegovina,1999,16898
+Europe,Netherlands,1999,160530
+Americas,Peru,1999,17108
+Africa,South Africa,1999,172893
+Americas,Colombia,1999,18327
+Americas,Ecuador,1999,19579
+Western Pacific,Australia,1999,191405
+Europe,Andorra,1999,194
+Europe,Poland,1999,197153
+Europe,Croatia,1999,20220
+Europe,Georgia,1999,20328
+Americas,Mexico,1999,213629
+Europe,Tajikistan,1999,22487
+Americas,Antigua and Barbuda,1999,233
+Europe,Uzbekistan,1999,246427
+Eastern Mediterranean,Syrian Arab Republic,1999,25680
+Americas,Saint Kitts and Nevis,1999,264
+Europe,Lithuania,1999,27930
+Europe,Greece,1999,28452
+Europe,Cyprus,1999,2950
+Africa,Chad,1999,303
+Europe,Luxembourg,1999,3147
+Europe,Israel,1999,33267
+Americas,Saint Lucia,1999,331
+Western Pacific,Solomon Islands,1999,338
+Americas,Panama,1999,3394
+Europe,Republic of Moldova,1999,34569
+Western Pacific,Samoa,1999,346
+Eastern Mediterranean,Pakistan,1999,35979
+Africa,Mozambique,1999,3547
+Western Pacific,New Zealand,1999,36770
+Americas,Trinidad and Tobago,1999,3649
+Europe,Kyrgyzstan,1999,37416
+Europe,Iceland,1999,3717
+Europe,France,1999,389548
+Europe,Slovakia,1999,39026
+Americas,Grenada,1999,394
+Americas,Costa Rica,1999,4176
+Europe,Austria,1999,43279
+Americas,Brazil,1999,438004
+Europe,Bulgaria,1999,45252
+Europe,Denmark,1999,48575
+Eastern Mediterranean,Djibouti,1999,493
+Africa,Botswana,1999,4992
+Europe,Ireland,1999,50940
+Europe,Hungary,1999,54997
+Europe,Azerbaijan,1999,60565
+Eastern Mediterranean,Oman,1999,6438
+South-East Asia,Thailand,1999,68008
+Europe,Türkiye,1999,68420
+Europe,Czechia,1999,75871
+Europe,Finland,1999,79438
+Europe,Estonia,1999,8333
+Europe,Sweden,1999,84651
+Europe,Belarus,1999,89072
+Europe,Kazakhstan,1999,91510
+Europe,Russian Federation,1999,958277
+Western Pacific,China,1998,1218836
+Europe,Latvia,1998,10761
+Western Pacific,Palau,1998,113
+Eastern Mediterranean,United Arab Emirates,1998,12288
+Europe,Albania,1998,12730
+Eastern Mediterranean,Jordan,1998,12863
+Western Pacific,Republic of Korea,1998,128427
+Europe,Slovenia,1998,13373
+Americas,Bahamas,1998,1323
+Europe,Spain,1998,133633
+South-East Asia,Sri Lanka,1998,14621
+Americas,Colombia,1998,17290
+Africa,South Africa,1998,173703
+Europe,Andorra,1998,181
+Americas,Ecuador,1998,19021
+Europe,Croatia,1998,19856
+Western Pacific,Kiribati,1998,191
+Western Pacific,Australia,1998,191611
+Europe,Georgia,1998,20484
+Americas,Mexico,1998,205525
+Europe,Poland,1998,213127
+Europe,Tajikistan,1998,22798
+Europe,Uzbekistan,1998,242281
+Americas,Saint Kitts and Nevis,1998,249
+Africa,Chad,1998,258
+Americas,Argentina,1998,29000
+Eastern Mediterranean,Syrian Arab Republic,1998,29500
+Europe,Cyprus,1998,2937
+Europe,Luxembourg,1998,3079
+Europe,Lithuania,1998,31051
+Europe,Israel,1998,31900
+Americas,Panama,1998,3185
+Eastern Mediterranean,Pakistan,1998,32938
+Americas,Trinidad and Tobago,1998,3441
+Western Pacific,New Zealand,1998,36763
+Europe,Kyrgyzstan,1998,37354
+Europe,Iceland,1998,3701
+Europe,France,1998,373441
+Europe,Republic of Moldova,1998,38902
+Americas,Brazil,1998,386158
+Europe,Slovakia,1998,39862
+Americas,Costa Rica,1998,3945
+Europe,Austria,1998,42013
+Africa,Botswana,1998,4265
+Europe,Bulgaria,1998,47343
+Europe,Ireland,1998,48579
+Europe,Denmark,1998,48636
+Europe,Hungary,1998,56150
+Europe,Azerbaijan,1998,60700
+South-East Asia,Thailand,1998,63708
+Eastern Mediterranean,Oman,1998,6365
+Europe,Türkiye,1998,67514
+Europe,Czechia,1998,75617
+Europe,Finland,1998,76311
+Europe,Sweden,1998,83623
+Americas,Haiti,1998,834
+Western Pacific,Cambodia,1998,8377
+Europe,Estonia,1998,8513
+Europe,Belarus,1998,87054
+Europe,Russian Federation,1998,956698
+Europe,Kazakhstan,1998,97849
+Western Pacific,China,1997,1198228
+Europe,Kazakhstan,1997,105212
+Europe,Latvia,1997,11467
+Western Pacific,Republic of Korea,1997,125710
+Africa,Angola,1997,13135
+Europe,Slovenia,1997,13313
+South-East Asia,Sri Lanka,1997,13815
+Europe,Spain,1997,133933
+Europe,Albania,1997,14284
+Americas,Venezuela (Bolivarian Republic of),1997,15020
+Americas,Colombia,1997,16024
+Europe,Andorra,1997,168
+Eastern Mediterranean,Libya,1997,17779
+Europe,Croatia,1997,19390
+Americas,Ecuador,1997,19558
+Western Pacific,Australia,1997,191816
+Americas,Mexico,1997,199382
+Europe,Georgia,1997,20777
+Africa,Chad,1997,217
+Europe,Poland,1997,217190
+Europe,Tajikistan,1997,24425
+Europe,Uzbekistan,1997,241264
+Americas,Saint Kitts and Nevis,1997,243
+Eastern Mediterranean,Syrian Arab Republic,1997,27240
+Americas,Saint Vincent and the Grenadines,1997,276
+Eastern Mediterranean,Pakistan,1997,28661
+Americas,Trinidad and Tobago,1997,2891
+Europe,Cyprus,1997,2901
+Europe,Israel,1997,30600
+Europe,Luxembourg,1997,3070
+Europe,Lithuania,1997,31565
+Americas,Panama,1997,3153
+Americas,Dominica,1997,317
+Western Pacific,New Zealand,1997,34016
+Americas,Brazil,1997,343691
+Europe,Iceland,1997,3554
+Americas,Costa Rica,1997,3585
+Europe,Kyrgyzstan,1997,37778
+Europe,Republic of Moldova,1997,40110
+Europe,Austria,1997,41320
+Western Pacific,Vanuatu,1997,428
+Europe,Ireland,1997,47157
+Europe,Bulgaria,1997,47434
+Europe,Denmark,1997,47904
+Eastern Mediterranean,Yemen,1997,4989
+Europe,Hungary,1997,54885
+South-East Asia,Thailand,1997,56366
+Eastern Mediterranean,Oman,1997,5792
+Europe,Azerbaijan,1997,63217
+Europe,Türkiye,1997,65135
+Europe,Finland,1997,72845
+Europe,Belarus,1997,73343
+Europe,Czechia,1997,75744
+Europe,Sweden,1997,81885
+Europe,Estonia,1997,8633
+Eastern Mediterranean,United Arab Emirates,1997,9486
+Europe,Russian Federation,1997,972700
+Western Pacific,China,1996,1162609
+Western Pacific,Niue,1996,11
+Europe,Latvia,1996,11952
+Europe,Kazakhstan,1996,123507
+Europe,Slovenia,1996,13051
+South-East Asia,Sri Lanka,1996,13933
+Europe,Spain,1996,130000
+Europe,Albania,1996,14284
+Americas,Colombia,1996,15340
+Europe,Croatia,1996,18499
+Americas,Ecuador,1996,19062
+Western Pacific,Australia,1996,197458
+Americas,Mexico,1996,198221
+Europe,Georgia,1996,20276
+Europe,Poland,1996,215295
+Europe,Uzbekistan,1996,234633
+Europe,Tajikistan,1996,24160
+Eastern Mediterranean,Pakistan,1996,24776
+Americas,Saint Kitts and Nevis,1996,254
+Europe,Cyprus,1996,2850
+Americas,Trinidad and Tobago,1996,2851
+Europe,Luxembourg,1996,2967
+Europe,Israel,1996,30134
+Americas,Panama,1996,3014
+Americas,Brazil,1996,303618
+Europe,Lithuania,1996,32348
+Americas,Costa Rica,1996,3396
+Europe,Iceland,1996,3522
+Western Pacific,New Zealand,1996,36303
+South-East Asia,Maldives,1996,361
+Europe,Republic of Moldova,1996,39070
+Europe,Kyrgyzstan,1996,39881
+Europe,Austria,1996,40310
+Europe,Ireland,1996,44822
+Europe,Denmark,1996,46443
+Europe,Bulgaria,1996,51109
+Western Pacific,Republic of Korea,1996,54573
+Europe,Hungary,1996,55828
+Europe,Türkiye,1996,62472
+Europe,Azerbaijan,1996,65732
+Europe,Finland,1996,69166
+Europe,Belarus,1996,72342
+Europe,Czechia,1996,76087
+Europe,Sweden,1996,82420
+Western Pacific,Cambodia,1996,8409
+Europe,Estonia,1996,8864
+Eastern Mediterranean,United Arab Emirates,1996,9050
+Europe,Russian Federation,1996,978700
+Europe,Russian Federation,1995,1003300
+Western Pacific,China,1995,1125661
+Europe,Latvia,1995,12133
+Europe,Slovenia,1995,12705
+South-East Asia,Sri Lanka,1995,13177
+Americas,Barbados,1995,1360
+Europe,Kazakhstan,1995,137006
+Africa,Zimbabwe,1995,14180
+Europe,Albania,1995,14318
+Americas,Colombia,1995,14545
+Europe,Andorra,1995,151
+Europe,Spain,1995,166060
+Americas,Ecuador,1995,17614
+Europe,Croatia,1995,17908
+Americas,Mexico,1995,195631
+Europe,Poland,1995,211603
+Europe,Uzbekistan,1995,219957
+Eastern Mediterranean,Pakistan,1995,22299
+Europe,Tajikistan,1995,24126
+Americas,Saint Kitts and Nevis,1995,242
+Americas,Brazil,1995,255376
+Europe,Cyprus,1995,2821
+Europe,Luxembourg,1995,2838
+Americas,Panama,1995,2861
+Europe,Lithuania,1995,32444
+Americas,Costa Rica,1995,3216
+Western Pacific,New Zealand,1995,35722
+Europe,Iceland,1995,3505
+Americas,Trinidad and Tobago,1995,3737
+Europe,Austria,1995,39324
+Europe,Republic of Moldova,1995,40788
+Europe,Kyrgyzstan,1995,41042
+Western Pacific,Australia,1995,415349
+Europe,Ireland,1995,42937
+Europe,Israel,1995,43389
+Europe,Denmark,1995,45855
+Europe,Monaco,1995,454
+Europe,Bulgaria,1995,51035
+Western Pacific,Republic of Korea,1995,51688
+South-East Asia,Thailand,1995,54262
+Europe,Hungary,1995,55268
+Western Pacific,Nauru,1995,60
+Eastern Mediterranean,Oman,1995,6036
+Western Pacific,Lao People's Democratic Republic,1995,6090
+Europe,Türkiye,1995,62196
+Europe,Finland,1995,65409
+Europe,Azerbaijan,1995,66973
+Europe,Belarus,1995,71681
+Europe,Czechia,1995,76493
+Europe,Sweden,1995,82479
+Eastern Mediterranean,United Arab Emirates,1995,8648
+Europe,Estonia,1995,9258
+South-East Asia,Sri Lanka,1994,11327
+Europe,Latvia,1994,11527
+Europe,Slovenia,1994,11889
+Europe,Sweden,1994,122663
+Americas,Colombia,1994,13755
+Europe,Albania,1994,14318
+Europe,Kazakhstan,1994,142728
+Europe,Spain,1994,161852
+Americas,Ecuador,1994,17614
+Americas,Mexico,1994,188630
+Europe,Croatia,1994,19633
+Western Pacific,Australia,1994,204748
+Europe,Poland,1994,208571
+Eastern Mediterranean,Pakistan,1994,21419
+Europe,Uzbekistan,1994,210356
+Americas,Brazil,1994,225860
+Americas,Saint Kitts and Nevis,1994,252
+Europe,Tajikistan,1994,26069
+Europe,Cyprus,1994,2726
+Americas,Panama,1994,2752
+Americas,Costa Rica,1994,3118
+Europe,Lithuania,1994,32849
+Western Pacific,New Zealand,1994,34674
+Europe,Iceland,1994,3421
+Europe,Austria,1994,37721
+Europe,Kyrgyzstan,1994,40503
+Europe,Ireland,1994,41233
+Europe,Republic of Moldova,1994,42977
+Europe,Denmark,1994,45422
+Western Pacific,Republic of Korea,1994,49312
+Europe,Bulgaria,1994,50773
+Europe,Hungary,1994,56223
+Europe,Türkiye,1994,56289
+Europe,Finland,1994,61831
+Europe,Belarus,1994,67397
+Europe,Azerbaijan,1994,68800
+Americas,Argentina,1994,74000
+Europe,Czechia,1994,74964
+Eastern Mediterranean,United Arab Emirates,1994,8506
+Europe,Estonia,1994,9414
+Europe,Russian Federation,1994,996400
+Europe,Slovenia,1993,11739
+South-East Asia,Sri Lanka,1993,11927
+Europe,Sweden,1993,118823
+Americas,Colombia,1993,12975
+Europe,Latvia,1993,13151
+Americas,Ecuador,1993,15182
+Europe,Albania,1993,15812
+Europe,Kazakhstan,1993,152600
+Europe,Spain,1993,161684
+Americas,Mexico,1993,180285
+South-East Asia,Maldives,1993,188
+Western Pacific,Australia,1993,195737
+Americas,Brazil,1993,198293
+Europe,Croatia,1993,20232
+Eastern Mediterranean,Pakistan,1993,20245
+Europe,Poland,1993,203895
+Europe,Uzbekistan,1993,239969
+Europe,Tajikistan,1993,26868
+Americas,Panama,1993,2647
+Europe,Cyprus,1993,2654
+Americas,Saint Kitts and Nevis,1993,286
+Americas,Costa Rica,1993,3021
+Europe,Lithuania,1993,32559
+Western Pacific,New Zealand,1993,33429
+Europe,Iceland,1993,3363
+Europe,Austria,1993,35014
+Europe,Kyrgyzstan,1993,41116
+Europe,Republic of Moldova,1993,44149
+Europe,Denmark,1993,45686
+South-East Asia,Thailand,1993,46671
+Europe,Bulgaria,1993,52038
+Europe,Türkiye,1993,54213
+Europe,Hungary,1993,56319
+Europe,Finland,1993,58219
+Europe,Belarus,1993,69783
+Europe,Azerbaijan,1993,70100
+Europe,Czechia,1993,75021
+Eastern Mediterranean,United Arab Emirates,1993,8279
+Europe,Russian Federation,1993,952300
+Europe,Estonia,1993,9737
+South-East Asia,Sri Lanka,1992,10035
+Europe,Slovenia,1992,11997
+Europe,Sweden,1992,115055
+Americas,Colombia,1992,12253
+Europe,Latvia,1992,14198
+Europe,Spain,1992,158466
+Europe,Kazakhstan,1992,160449
+Americas,Ecuador,1992,17420
+Americas,Mexico,1992,173320
+Americas,Brazil,1992,176648
+Eastern Mediterranean,Pakistan,1992,19389
+Europe,Croatia,1992,20732
+Western Pacific,Australia,1992,202300
+Europe,Poland,1992,203635
+Europe,Uzbekistan,1992,234002
+Americas,Panama,1992,2483
+Europe,Cyprus,1992,2524
+Europe,Tajikistan,1992,26417
+Americas,Saint Kitts and Nevis,1992,286
+Americas,Costa Rica,1992,2914
+Western Pacific,New Zealand,1992,31062
+Europe,Austria,1992,32868
+Europe,Iceland,1992,3254
+Europe,Lithuania,1992,33074
+Europe,Kyrgyzstan,1992,42679
+Europe,Republic of Moldova,1992,43825
+Europe,Monaco,1992,448
+Europe,Denmark,1992,45132
+Europe,Bulgaria,1992,50230
+Europe,Hungary,1992,53047
+Europe,Finland,1992,55078
+Europe,Belarus,1992,63378
+Europe,Azerbaijan,1992,68200
+Americas,Argentina,1992,69000
+Europe,Czechia,1992,75230
+Eastern Mediterranean,United Arab Emirates,1992,8215
+Europe,Russian Federation,1992,940500
+South-East Asia,Indonesia,1992,95183
+Europe,Estonia,1992,9882
+Europe,Estonia,1991,10169
+Americas,Colombia,1991,11540
+Europe,Slovenia,1991,11996
+Europe,Sweden,1991,111033
+Europe,Latvia,1991,15509
+South-East Asia,Maldives,1991,150
+Europe,Spain,1991,155035
+Americas,Ecuador,1991,16866
+Americas,Mexico,1991,161974
+Europe,Kazakhstan,1991,162296
+Europe,Croatia,1991,20165
+Europe,Bosnia and Herzegovina,1991,20375
+Europe,Poland,1991,204004
+Western Pacific,Australia,1991,208800
+Europe,Uzbekistan,1991,227600
+Americas,Panama,1991,2458
+Europe,Cyprus,1991,2476
+Europe,Tajikistan,1991,26959
+South-East Asia,India,1991,274509
+Americas,Costa Rica,1991,2782
+Americas,Saint Kitts and Nevis,1991,284
+Europe,Austria,1991,31151
+Western Pacific,New Zealand,1991,32439
+Europe,Iceland,1991,3224
+Europe,Lithuania,1991,33041
+South-East Asia,Thailand,1991,40685
+Europe,Kyrgyzstan,1991,42448
+Europe,Republic of Moldova,1991,43621
+Europe,Bulgaria,1991,50480
+Europe,Hungary,1991,50481
+Europe,Finland,1991,52180
+Europe,Belarus,1991,60830
+Europe,Denmark,1991,62705
+Europe,Azerbaijan,1991,69900
+Europe,Czechia,1991,74681
+Eastern Mediterranean,United Arab Emirates,1991,7423
+South-East Asia,Sri Lanka,1991,9097
+Europe,Russian Federation,1991,928700
+Europe,Slovenia,1990,10767
+Americas,Colombia,1990,10810
+Europe,Spain,1990,104300
+Europe,Sweden,1990,107476
+Africa,Zimbabwe,1990,12518
+Europe,Estonia,1990,12754
+Europe,Albania,1990,14785
+Americas,Brazil,1990,141480
+Americas,Mexico,1990,147295
+Europe,Kazakhstan,1990,149037
+Europe,Latvia,1990,15223
+Americas,Ecuador,1990,15850
+Western Pacific,Australia,1990,198500
+Europe,Bosnia and Herzegovina,1990,20939
+Europe,Poland,1990,207767
+Europe,Uzbekistan,1990,213667
+Europe,Croatia,1990,22428
+Europe,Tajikistan,1990,24829
+Americas,Panama,1990,2460
+Europe,Cyprus,1990,2478
+Americas,Costa Rica,1990,2718
+Americas,Saint Kitts and Nevis,1990,283
+Europe,Austria,1990,29997
+Western Pacific,New Zealand,1990,31255
+Europe,Iceland,1990,3179
+Europe,Lithuania,1990,36644
+Europe,Kyrgyzstan,1990,40884
+Eastern Mediterranean,Oman,1990,4147
+Europe,Republic of Moldova,1990,42676
+Europe,Finland,1990,50142
+Eastern Mediterranean,United Arab Emirates,1990,5178
+Europe,Bulgaria,1990,53810
+Europe,Hungary,1990,53854
+Europe,Denmark,1990,60986
+Europe,Belarus,1990,62925
+Europe,Azerbaijan,1990,68000
+Europe,Czechia,1990,75066
+South-East Asia,Sri Lanka,1990,8208
+Western Pacific,China,1990,974541
+Europe,Russian Federation,1990,993600
+Europe,Slovenia,1989,10362
+Europe,Sweden,1989,103942
+Europe,Estonia,1989,12806
+Americas,Colombia,1989,13127
+Europe,Latvia,1989,14748
+South-East Asia,Maldives,1989,141
+Europe,Malta,1989,1430
+Europe,Kazakhstan,1989,146293
+Americas,Ecuador,1989,15484
+Europe,Spain,1989,150986
+Western Pacific,Australia,1989,197000
+Europe,Poland,1989,197880
+Europe,Bosnia and Herzegovina,1989,20929
+Europe,Uzbekistan,1989,205925
+Americas,Argentina,1989,22400
+Europe,Tajikistan,1989,23177
+Europe,Croatia,1989,23783
+Europe,Cyprus,1989,2450
+Europe,Austria,1989,29073
+Europe,Monaco,1989,293
+Europe,Iceland,1989,3052
+Europe,Lithuania,1989,36611
+South-East Asia,Thailand,1989,37515
+Europe,Kyrgyzstan,1989,39296
+Europe,Republic of Moldova,1989,42387
+Europe,Bulgaria,1989,53124
+Europe,Denmark,1989,59207
+Europe,Belarus,1989,62277
+Europe,Azerbaijan,1989,70400
+Europe,Czechia,1989,74997
+Europe,Slovenia,1988,10330
+Europe,Sweden,1988,100737
+Americas,Colombia,1988,12281
+Europe,Estonia,1988,13018
+Europe,Kazakhstan,1988,141143
+Europe,Spain,1988,146333
+Europe,Malta,1988,1467
+Americas,Ecuador,1988,15292
+Western Pacific,Australia,1988,191800
+Europe,Poland,1988,193912
+Europe,Uzbekistan,1988,195538
+Europe,Bosnia and Herzegovina,1988,20491
+Europe,Tajikistan,1988,21781
+Europe,Croatia,1988,23242
+Europe,Cyprus,1988,2341
+Europe,Austria,1988,27866
+Europe,Iceland,1988,2965
+Western Pacific,New Zealand,1988,33495
+Europe,Lithuania,1988,35022
+Europe,Kyrgyzstan,1988,38849
+Americas,Argentina,1988,38938
+Europe,Republic of Moldova,1988,41197
+Europe,Belarus,1988,50296
+Europe,Bulgaria,1988,53203
+Europe,Denmark,1988,57481
+Europe,Azerbaijan,1988,68400
+Europe,Czechia,1988,73873
+South-East Asia,Myanmar,1988,8349
+South-East Asia,Sri Lanka,1988,8471
+Europe,Slovenia,1987,10229
+Americas,Colombia,1987,11389
+Europe,Estonia,1987,13024
+Europe,Kazakhstan,1987,137204
+Americas,Ecuador,1987,14853
+Europe,Spain,1987,142960
+Europe,Malta,1987,1467
+Europe,Tajikistan,1987,18540
+Europe,Uzbekistan,1987,184614
+Western Pacific,Australia,1987,185000
+Europe,Poland,1987,191800
+Europe,Bosnia and Herzegovina,1987,20242
+Europe,Croatia,1987,22752
+Europe,Cyprus,1987,2279
+Europe,Austria,1987,27930
+Europe,Iceland,1987,2893
+Western Pacific,New Zealand,1987,29131
+South-East Asia,Thailand,1987,30752
+Europe,Lithuania,1987,34465
+Europe,Kyrgyzstan,1987,37533
+Europe,Republic of Moldova,1987,40305
+Europe,Belarus,1987,48459
+Europe,Bulgaria,1987,52410
+Europe,Denmark,1987,55650
+Europe,Azerbaijan,1987,65500
+Europe,Czechia,1987,72766
+Europe,Sweden,1987,97408
+Europe,Slovenia,1986,10021
+Americas,Colombia,1986,10815
+Europe,Estonia,1986,12703
+Americas,Ecuador,1986,13194
+Europe,Kazakhstan,1986,132936
+Europe,Spain,1986,141359
+Europe,Tajikistan,1986,17074
+Europe,Uzbekistan,1986,174218
+Western Pacific,Australia,1986,175000
+Europe,Poland,1986,186484
+Europe,Bosnia and Herzegovina,1986,19596
+Europe,Croatia,1986,22057
+Europe,Cyprus,1986,2211
+Europe,Austria,1986,26916
+Western Pacific,New Zealand,1986,27750
+Europe,Iceland,1986,2779
+Europe,Lithuania,1986,32959
+Europe,Republic of Moldova,1986,38873
+Europe,Kyrgyzstan,1986,40629
+Europe,Belarus,1986,46995
+Europe,Bulgaria,1986,51339
+Europe,Denmark,1986,53836
+Europe,Azerbaijan,1986,63700
+Europe,Czechia,1986,71491
+Europe,Sweden,1986,92998
+Europe,Russian Federation,1985,1176553
+Americas,Colombia,1985,10131
+Europe,Estonia,1985,12537
+Europe,Kazakhstan,1985,127503
+Americas,Ecuador,1985,13759
+Europe,Tajikistan,1985,15547
+Western Pacific,Australia,1985,150700
+Europe,Uzbekistan,1985,163641
+Europe,Poland,1985,179727
+Europe,Bosnia and Herzegovina,1985,18875
+Europe,Croatia,1985,20910
+Europe,Cyprus,1985,2155
+Eastern Mediterranean,Oman,1985,2288
+Europe,Austria,1985,25832
+Western Pacific,New Zealand,1985,26225
+Europe,Iceland,1985,2679
+South-East Asia,Thailand,1985,28019
+Europe,Lithuania,1985,31949
+Europe,Republic of Moldova,1985,37531
+Europe,Kyrgyzstan,1985,39164
+Europe,Belarus,1985,45644
+Europe,Bulgaria,1985,50805
+Europe,Denmark,1985,52041
+Europe,Azerbaijan,1985,62100
+Western Pacific,China,1985,636974
+Europe,Czechia,1985,69731
+Europe,Spain,1985,86200
+Europe,Sweden,1985,87558
+Africa,Zimbabwe,1985,9533
+Europe,Slovenia,1985,9582
+Europe,Estonia,1984,12321
+Europe,Kazakhstan,1984,122703
+Americas,Ecuador,1984,13194
+Europe,Spain,1984,136772
+Western Pacific,Australia,1984,154400
+Europe,Bosnia and Herzegovina,1984,17491
+Europe,Poland,1984,172076
+Europe,Cyprus,1984,2149
+Western Pacific,New Zealand,1984,26012
+Europe,Iceland,1984,2638
+Europe,Lithuania,1984,31521
+Europe,Republic of Moldova,1984,36124
+Europe,Kyrgyzstan,1984,37069
+Europe,Belarus,1984,43875
+Europe,Denmark,1984,50228
+Europe,Czechia,1984,67855
+Europe,Sweden,1984,84311
+Americas,Colombia,1984,9345
+Americas,Ecuador,1983,11959
+Europe,Kazakhstan,1983,118375
+Europe,Estonia,1983,12070
+Europe,Spain,1983,134400
+Western Pacific,Australia,1983,151900
+Europe,Bosnia and Herzegovina,1983,16989
+Europe,Poland,1983,168567
+Europe,Cyprus,1983,2089
+Western Pacific,New Zealand,1983,23213
+South-East Asia,Thailand,1983,23565
+Europe,Iceland,1983,2538
+Europe,Lithuania,1983,30450
+Europe,Kyrgyzstan,1983,30971
+Europe,Republic of Moldova,1983,34967
+Europe,Belarus,1983,42368
+Europe,Denmark,1983,48485
+Europe,Czechia,1983,66208
+Europe,Sweden,1983,81899
+Americas,Ecuador,1982,11295
+Europe,Estonia,1982,11910
+Europe,Kazakhstan,1982,113260
+Europe,Spain,1982,131999
+Europe,Malta,1982,1323
+Western Pacific,Australia,1982,149500
+Europe,Bosnia and Herzegovina,1982,16489
+Europe,Poland,1982,164023
+Europe,Cyprus,1982,2017
+Europe,Monaco,1982,208
+Western Pacific,New Zealand,1982,22022
+Europe,Iceland,1982,2333
+Europe,Lithuania,1982,29175
+Europe,Kyrgyzstan,1982,29765
+Europe,Republic of Moldova,1982,33374
+Europe,Belarus,1982,41128
+Europe,Denmark,1982,46872
+Europe,Czechia,1982,64609
+Europe,Sweden,1982,79200
+Americas,Ecuador,1981,10985
+Europe,Estonia,1981,11346
+Europe,Kazakhstan,1981,110109
+Europe,Malta,1981,1208
+Europe,Spain,1981,125884
+Western Pacific,Australia,1981,147900
+Europe,Bosnia and Herzegovina,1981,15910
+Europe,Poland,1981,161269
+Europe,Cyprus,1981,1783
+South-East Asia,Thailand,1981,19599
+Europe,Monaco,1981,195
+Western Pacific,New Zealand,1981,20341
+Europe,Iceland,1981,2156
+Europe,Lithuania,1981,27439
+Europe,Republic of Moldova,1981,32386
+Europe,Belarus,1981,38787
+Europe,Denmark,1981,45336
+Europe,Czechia,1981,62750
+Europe,Sweden,1981,73963
+Europe,Estonia,1980,10936
+Europe,Kazakhstan,1980,105913
+Eastern Mediterranean,Oman,1980,1096
+Europe,Uzbekistan,1980,124444
+Europe,Bosnia and Herzegovina,1980,15213
+Western Pacific,Australia,1980,151800
+Europe,Poland,1980,156975
+Europe,Croatia,1980,16213
+Europe,Cyprus,1980,1707
+Western Pacific,New Zealand,1980,19195
+Europe,Monaco,1980,194
+Europe,Iceland,1980,2028
+Europe,Republic of Moldova,1980,30974
+Europe,Kyrgyzstan,1980,31472
+Europe,Belarus,1980,37515
+Europe,Denmark,1980,43758
+Europe,Bulgaria,1980,45449
+Western Pacific,China,1980,465798
+Europe,Azerbaijan,1980,52200
+Europe,Czechia,1980,61335
+South-East Asia,Sri Lanka,1980,6336
+Europe,Sweden,1980,69777
+Europe,Spain,1980,78800
+South-East Asia,Thailand,1979,17211
+Americas,Argentina,1979,40836
+Western Pacific,China,1978,405223
+South-East Asia,Thailand,1977,15231
+South-East Asia,Thailand,1975,12658
+Eastern Mediterranean,Oman,1975,450
+South-East Asia,Thailand,1973,10562
+South-East Asia,Thailand,1971,9360
+Americas,Argentina,1969,22976
+Europe,Cyprus,1965,927
+Europe,Cyprus,1960,746

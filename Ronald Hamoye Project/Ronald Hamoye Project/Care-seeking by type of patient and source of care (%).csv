@@ -1,0 +1,214 @@
+Indicator,ParentLocation,Location,Period,IsLatestYear,Dim1 type,Dim1,Dim2,FactValueNumeric
+Care-seeking by type of patient and source of care (%),Africa,Guinea,2018,TRUE,Patient type,Inpatient,NGO,0
+Care-seeking by type of patient and source of care (%),Africa,Guinea,2018,TRUE,Patient type,Outpatient,NGO,0
+Care-seeking by type of patient and source of care (%),Africa,Guinea,2018,TRUE,Patient type,Total,NGO,0
+Care-seeking by type of patient and source of care (%),Eastern Mediterranean,Iraq,2018,TRUE,Patient type,Inpatient,NGO,0
+Care-seeking by type of patient and source of care (%),Europe,Kyrgyzstan,2018,TRUE,Patient type,Inpatient,NGO,0
+Care-seeking by type of patient and source of care (%),Europe,Kyrgyzstan,2018,TRUE,Patient type,Outpatient,NGO,0
+Care-seeking by type of patient and source of care (%),Europe,Kyrgyzstan,2018,TRUE,Patient type,Total,NGO,0
+Care-seeking by type of patient and source of care (%),Africa,Mali,2018,TRUE,Patient type,Inpatient,NGO,0
+Care-seeking by type of patient and source of care (%),Africa,Mali,2018,TRUE,Patient type,Outpatient,NGO,0
+Care-seeking by type of patient and source of care (%),Africa,Mali,2018,TRUE,Patient type,Total,NGO,0
+Care-seeking by type of patient and source of care (%),Western Pacific,Mongolia,2018,TRUE,Patient type,Inpatient,NGO,0
+Care-seeking by type of patient and source of care (%),Western Pacific,Mongolia,2018,TRUE,Patient type,Outpatient,NGO,0
+Care-seeking by type of patient and source of care (%),Western Pacific,Mongolia,2018,TRUE,Patient type,Total,NGO,0
+Care-seeking by type of patient and source of care (%),Americas,Suriname,2018,TRUE,Patient type,Inpatient,NGO,0
+Care-seeking by type of patient and source of care (%),Americas,Suriname,2018,TRUE,Patient type,Outpatient,NGO,0
+Care-seeking by type of patient and source of care (%),Americas,Suriname,2018,TRUE,Patient type,Total,NGO,0
+Care-seeking by type of patient and source of care (%),Eastern Mediterranean,Tunisia,2018,TRUE,Patient type,Inpatient,Informal,0
+Care-seeking by type of patient and source of care (%),Eastern Mediterranean,Tunisia,2018,TRUE,Patient type,Inpatient,NGO,0
+Care-seeking by type of patient and source of care (%),Eastern Mediterranean,Tunisia,2018,TRUE,Patient type,Outpatient,NGO,0
+Care-seeking by type of patient and source of care (%),Eastern Mediterranean,Tunisia,2018,TRUE,Patient type,Total,NGO,0
+Care-seeking by type of patient and source of care (%),Eastern Mediterranean,Iraq,2018,TRUE,Patient type,Inpatient,Informal,0.09
+Care-seeking by type of patient and source of care (%),Eastern Mediterranean,Iraq,2018,TRUE,Patient type,Total,NGO,0.09
+Care-seeking by type of patient and source of care (%),Eastern Mediterranean,Iraq,2018,TRUE,Patient type,Outpatient,NGO,0.17
+Care-seeking by type of patient and source of care (%),Africa,Gambia,2018,TRUE,Patient type,Inpatient,NGO,0.18
+Care-seeking by type of patient and source of care (%),Europe,Kyrgyzstan,2018,TRUE,Patient type,Inpatient,Informal,0.19
+Care-seeking by type of patient and source of care (%),Africa,Gambia,2018,TRUE,Patient type,Total,NGO,0.28
+Care-seeking by type of patient and source of care (%),Africa,Guinea,2018,TRUE,Patient type,Inpatient,Informal,0.34
+Care-seeking by type of patient and source of care (%),Africa,Gambia,2018,TRUE,Patient type,Outpatient,NGO,0.37
+Care-seeking by type of patient and source of care (%),Europe,Kyrgyzstan,2018,TRUE,Patient type,Total,Informal,0.46
+Care-seeking by type of patient and source of care (%),Africa,Mali,2018,TRUE,Patient type,Inpatient,Informal,0.61
+Care-seeking by type of patient and source of care (%),Europe,Kyrgyzstan,2018,TRUE,Patient type,Outpatient,Informal,0.69
+Care-seeking by type of patient and source of care (%),Western Pacific,Mongolia,2018,TRUE,Patient type,Inpatient,Informal,0.92
+Care-seeking by type of patient and source of care (%),Africa,Gambia,2018,TRUE,Patient type,Inpatient,Informal,1.07
+Care-seeking by type of patient and source of care (%),Eastern Mediterranean,Iraq,2018,TRUE,Patient type,Total,Informal,1.14
+Care-seeking by type of patient and source of care (%),Europe,Kyrgyzstan,2018,TRUE,Patient type,Inpatient,Private,1.48
+Care-seeking by type of patient and source of care (%),Africa,Gambia,2018,TRUE,Patient type,Total,Informal,1.64
+Care-seeking by type of patient and source of care (%),Africa,Guinea,2018,TRUE,Patient type,Inpatient,Private,10.12
+Care-seeking by type of patient and source of care (%),Western Pacific,Mongolia,2018,TRUE,Patient type,Outpatient,Private,11.44
+Care-seeking by type of patient and source of care (%),Europe,Kyrgyzstan,2018,TRUE,Patient type,Outpatient,Private,12.07
+Care-seeking by type of patient and source of care (%),Eastern Mediterranean,Iraq,2018,TRUE,Patient type,Inpatient,Private,14.02
+Care-seeking by type of patient and source of care (%),Africa,Mali,2018,TRUE,Patient type,Total,Private,14.7
+Care-seeking by type of patient and source of care (%),Africa,Gambia,2018,TRUE,Patient type,Total,Private,18.38
+Care-seeking by type of patient and source of care (%),Eastern Mediterranean,Tunisia,2018,TRUE,Patient type,Total,Informal,2.04
+Care-seeking by type of patient and source of care (%),Eastern Mediterranean,Iraq,2018,TRUE,Patient type,Outpatient,Informal,2.08
+Care-seeking by type of patient and source of care (%),Africa,Gambia,2018,TRUE,Patient type,Outpatient,Informal,2.15
+Care-seeking by type of patient and source of care (%),Africa,Guinea,2018,TRUE,Patient type,Total,Informal,21
+Care-seeking by type of patient and source of care (%),Africa,Mali,2018,TRUE,Patient type,Total,Informal,21.55
+Care-seeking by type of patient and source of care (%),Africa,Mali,2018,TRUE,Patient type,Outpatient,Private,21.99
+Care-seeking by type of patient and source of care (%),Eastern Mediterranean,Tunisia,2018,TRUE,Patient type,Inpatient,Private,22.38
+Care-seeking by type of patient and source of care (%),Africa,Gambia,2018,TRUE,Patient type,Outpatient,Private,26.32
+Care-seeking by type of patient and source of care (%),Americas,Suriname,2018,TRUE,Patient type,Outpatient,Private,27.4
+Care-seeking by type of patient and source of care (%),Americas,Suriname,2018,TRUE,Patient type,Total,Private,28.59
+Care-seeking by type of patient and source of care (%),Americas,Suriname,2018,TRUE,Patient type,Inpatient,Private,29.93
+Care-seeking by type of patient and source of care (%),Americas,Suriname,2018,TRUE,Patient type,Outpatient,Informal,3.63
+Care-seeking by type of patient and source of care (%),Western Pacific,Mongolia,2018,TRUE,Patient type,Total,Informal,3.73
+Care-seeking by type of patient and source of care (%),Eastern Mediterranean,Tunisia,2018,TRUE,Patient type,Outpatient,Informal,3.86
+Care-seeking by type of patient and source of care (%),Eastern Mediterranean,Tunisia,2018,TRUE,Patient type,Outpatient,Public,31.48
+Care-seeking by type of patient and source of care (%),Africa,Mali,2018,TRUE,Patient type,Outpatient,Public,37.76
+Care-seeking by type of patient and source of care (%),Eastern Mediterranean,Iraq,2018,TRUE,Patient type,Outpatient,Public,37.84
+Care-seeking by type of patient and source of care (%),Eastern Mediterranean,Iraq,2018,TRUE,Patient type,Total,Private,38.26
+Care-seeking by type of patient and source of care (%),Africa,Guinea,2018,TRUE,Patient type,Outpatient,Informal,39.44
+Care-seeking by type of patient and source of care (%),Americas,Suriname,2018,TRUE,Patient type,Total,Informal,4.43
+Care-seeking by type of patient and source of care (%),Western Pacific,Mongolia,2018,TRUE,Patient type,Inpatient,Private,4.44
+Care-seeking by type of patient and source of care (%),Africa,Mali,2018,TRUE,Patient type,Outpatient,Informal,40.26
+Care-seeking by type of patient and source of care (%),Eastern Mediterranean,Tunisia,2018,TRUE,Patient type,Total,Private,44.71
+Care-seeking by type of patient and source of care (%),Americas,Suriname,2018,TRUE,Patient type,Inpatient,Informal,5.34
+Care-seeking by type of patient and source of care (%),Eastern Mediterranean,Tunisia,2018,TRUE,Patient type,Total,Public,53.25
+Care-seeking by type of patient and source of care (%),Africa,Guinea,2018,TRUE,Patient type,Outpatient,Public,53.8
+Care-seeking by type of patient and source of care (%),Eastern Mediterranean,Iraq,2018,TRUE,Patient type,Outpatient,Private,59.91
+Care-seeking by type of patient and source of care (%),Western Pacific,Mongolia,2018,TRUE,Patient type,Outpatient,Informal,6.23
+Care-seeking by type of patient and source of care (%),Africa,Mali,2018,TRUE,Patient type,Inpatient,Private,6.53
+Care-seeking by type of patient and source of care (%),Africa,Guinea,2018,TRUE,Patient type,Outpatient,Private,6.77
+Care-seeking by type of patient and source of care (%),Eastern Mediterranean,Iraq,2018,TRUE,Patient type,Total,Public,60.5
+Care-seeking by type of patient and source of care (%),Africa,Mali,2018,TRUE,Patient type,Total,Public,63.75
+Care-seeking by type of patient and source of care (%),Eastern Mediterranean,Tunisia,2018,TRUE,Patient type,Outpatient,Private,64.65
+Care-seeking by type of patient and source of care (%),Americas,Suriname,2018,TRUE,Patient type,Inpatient,Public,64.73
+Care-seeking by type of patient and source of care (%),Americas,Suriname,2018,TRUE,Patient type,Total,Public,66.97
+Care-seeking by type of patient and source of care (%),Americas,Suriname,2018,TRUE,Patient type,Outpatient,Public,68.97
+Care-seeking by type of patient and source of care (%),Europe,Kyrgyzstan,2018,TRUE,Patient type,Total,Private,7.08
+Care-seeking by type of patient and source of care (%),Africa,Guinea,2018,TRUE,Patient type,Total,Public,70.65
+Care-seeking by type of patient and source of care (%),Africa,Gambia,2018,TRUE,Patient type,Outpatient,Public,71.16
+Care-seeking by type of patient and source of care (%),Eastern Mediterranean,Tunisia,2018,TRUE,Patient type,Inpatient,Public,77.62
+Care-seeking by type of patient and source of care (%),Africa,Gambia,2018,TRUE,Patient type,Total,Public,79.71
+Care-seeking by type of patient and source of care (%),Western Pacific,Mongolia,2018,TRUE,Patient type,Total,Private,8.14
+Care-seeking by type of patient and source of care (%),Africa,Guinea,2018,TRUE,Patient type,Total,Private,8.35
+Care-seeking by type of patient and source of care (%),Western Pacific,Mongolia,2018,TRUE,Patient type,Outpatient,Public,82.33
+Care-seeking by type of patient and source of care (%),Eastern Mediterranean,Iraq,2018,TRUE,Patient type,Inpatient,Public,85.88
+Care-seeking by type of patient and source of care (%),Europe,Kyrgyzstan,2018,TRUE,Patient type,Outpatient,Public,87.23
+Care-seeking by type of patient and source of care (%),Western Pacific,Mongolia,2018,TRUE,Patient type,Total,Public,88.13
+Care-seeking by type of patient and source of care (%),Africa,Gambia,2018,TRUE,Patient type,Inpatient,Public,89.28
+Care-seeking by type of patient and source of care (%),Africa,Guinea,2018,TRUE,Patient type,Inpatient,Public,89.53
+Care-seeking by type of patient and source of care (%),Africa,Gambia,2018,TRUE,Patient type,Inpatient,Private,9.47
+Care-seeking by type of patient and source of care (%),Europe,Kyrgyzstan,2018,TRUE,Patient type,Total,Public,92.47
+Care-seeking by type of patient and source of care (%),Africa,Mali,2018,TRUE,Patient type,Inpatient,Public,92.86
+Care-seeking by type of patient and source of care (%),Western Pacific,Mongolia,2018,TRUE,Patient type,Inpatient,Public,94.64
+Care-seeking by type of patient and source of care (%),Europe,Kyrgyzstan,2018,TRUE,Patient type,Inpatient,Public,98.32
+Care-seeking by type of patient and source of care (%),South-East Asia,Indonesia,2017,TRUE,Patient type,Inpatient,NGO,0
+Care-seeking by type of patient and source of care (%),South-East Asia,Indonesia,2017,TRUE,Patient type,Outpatient,NGO,0
+Care-seeking by type of patient and source of care (%),South-East Asia,Indonesia,2017,TRUE,Patient type,Total,NGO,0
+Care-seeking by type of patient and source of care (%),Eastern Mediterranean,Jordan,2017,TRUE,Patient type,Outpatient,Informal,0
+Care-seeking by type of patient and source of care (%),Western Pacific,Lao People's Democratic Republic,2017,TRUE,Patient type,Inpatient,NGO,0
+Care-seeking by type of patient and source of care (%),Western Pacific,Lao People's Democratic Republic,2017,TRUE,Patient type,Outpatient,NGO,0
+Care-seeking by type of patient and source of care (%),Western Pacific,Lao People's Democratic Republic,2017,TRUE,Patient type,Total,NGO,0
+Care-seeking by type of patient and source of care (%),Eastern Mediterranean,Pakistan,2017,TRUE,Patient type,Inpatient,NGO,0
+Care-seeking by type of patient and source of care (%),Eastern Mediterranean,Pakistan,2017,TRUE,Patient type,Outpatient,NGO,0
+Care-seeking by type of patient and source of care (%),Eastern Mediterranean,Pakistan,2017,TRUE,Patient type,Total,NGO,0
+Care-seeking by type of patient and source of care (%),Africa,Senegal,2017,TRUE,Patient type,Inpatient,NGO,0
+Care-seeking by type of patient and source of care (%),Africa,Senegal,2017,TRUE,Patient type,Outpatient,NGO,0
+Care-seeking by type of patient and source of care (%),Africa,Senegal,2017,TRUE,Patient type,Total,NGO,0
+Care-seeking by type of patient and source of care (%),Africa,Sierra Leone,2017,TRUE,Patient type,Inpatient,NGO,0
+Care-seeking by type of patient and source of care (%),Africa,Sierra Leone,2017,TRUE,Patient type,Outpatient,NGO,0
+Care-seeking by type of patient and source of care (%),Africa,Sierra Leone,2017,TRUE,Patient type,Total,NGO,0
+Care-seeking by type of patient and source of care (%),Europe,Tajikistan,2017,TRUE,Patient type,Inpatient,NGO,0
+Care-seeking by type of patient and source of care (%),Europe,Tajikistan,2017,TRUE,Patient type,Outpatient,NGO,0
+Care-seeking by type of patient and source of care (%),Europe,Tajikistan,2017,TRUE,Patient type,Total,NGO,0
+Care-seeking by type of patient and source of care (%),Western Pacific,Philippines,2017,TRUE,Patient type,Outpatient,NGO,0.05
+Care-seeking by type of patient and source of care (%),Europe,Tajikistan,2017,TRUE,Patient type,Inpatient,Private,0.06
+Care-seeking by type of patient and source of care (%),Western Pacific,Philippines,2017,TRUE,Patient type,Total,NGO,0.07
+Care-seeking by type of patient and source of care (%),Western Pacific,Philippines,2017,TRUE,Patient type,Inpatient,NGO,0.1
+Care-seeking by type of patient and source of care (%),Eastern Mediterranean,Pakistan,2017,TRUE,Patient type,Inpatient,Informal,0.14
+Care-seeking by type of patient and source of care (%),South-East Asia,Indonesia,2017,TRUE,Patient type,Inpatient,Informal,0.17
+Care-seeking by type of patient and source of care (%),Africa,Benin,2017,TRUE,Patient type,Outpatient,NGO,0.2
+Care-seeking by type of patient and source of care (%),Europe,Tajikistan,2017,TRUE,Patient type,Inpatient,Informal,0.25
+Care-seeking by type of patient and source of care (%),Europe,Tajikistan,2017,TRUE,Patient type,Total,Informal,0.31
+Care-seeking by type of patient and source of care (%),Africa,Sierra Leone,2017,TRUE,Patient type,Inpatient,Informal,0.36
+Care-seeking by type of patient and source of care (%),Europe,Tajikistan,2017,TRUE,Patient type,Outpatient,Informal,0.36
+Care-seeking by type of patient and source of care (%),Eastern Mediterranean,Jordan,2017,TRUE,Patient type,Total,Informal,0.39
+Care-seeking by type of patient and source of care (%),Africa,Benin,2017,TRUE,Patient type,Total,NGO,0.43
+Care-seeking by type of patient and source of care (%),Europe,Albania,2017,TRUE,Patient type,Outpatient,Informal,0.65
+Care-seeking by type of patient and source of care (%),Africa,Benin,2017,TRUE,Patient type,Inpatient,NGO,0.68
+Care-seeking by type of patient and source of care (%),Europe,Albania,2017,TRUE,Patient type,Total,Informal,0.83
+Care-seeking by type of patient and source of care (%),Eastern Mediterranean,Jordan,2017,TRUE,Patient type,Inpatient,Informal,0.84
+Care-seeking by type of patient and source of care (%),Eastern Mediterranean,Jordan,2017,TRUE,Patient type,Inpatient,NGO,0.98
+Care-seeking by type of patient and source of care (%),Europe,Albania,2017,TRUE,Patient type,Inpatient,Informal,1.02
+Care-seeking by type of patient and source of care (%),Eastern Mediterranean,Pakistan,2017,TRUE,Patient type,Total,Informal,1.08
+Care-seeking by type of patient and source of care (%),Western Pacific,Lao People's Democratic Republic,2017,TRUE,Patient type,Inpatient,Informal,1.53
+Care-seeking by type of patient and source of care (%),Africa,Senegal,2017,TRUE,Patient type,Inpatient,Informal,1.57
+Care-seeking by type of patient and source of care (%),Africa,Benin,2017,TRUE,Patient type,Inpatient,Informal,1.83
+Care-seeking by type of patient and source of care (%),Eastern Mediterranean,Pakistan,2017,TRUE,Patient type,Outpatient,Informal,1.93
+Care-seeking by type of patient and source of care (%),Africa,Sierra Leone,2017,TRUE,Patient type,Outpatient,Private,11.26
+Care-seeking by type of patient and source of care (%),South-East Asia,Indonesia,2017,TRUE,Patient type,Outpatient,Informal,11.71
+Care-seeking by type of patient and source of care (%),Europe,Albania,2017,TRUE,Patient type,Outpatient,Private,11.77
+Care-seeking by type of patient and source of care (%),Africa,Senegal,2017,TRUE,Patient type,Total,Private,11.84
+Care-seeking by type of patient and source of care (%),Western Pacific,Lao People's Democratic Republic,2017,TRUE,Patient type,Total,Private,14.56
+Care-seeking by type of patient and source of care (%),Africa,Benin,2017,TRUE,Patient type,Total,Informal,15.79
+Care-seeking by type of patient and source of care (%),Africa,Benin,2017,TRUE,Patient type,Inpatient,Private,15.83
+Care-seeking by type of patient and source of care (%),Eastern Mediterranean,Pakistan,2017,TRUE,Patient type,Outpatient,Public,16.84
+Care-seeking by type of patient and source of care (%),Africa,Senegal,2017,TRUE,Patient type,Outpatient,Private,17.2
+Care-seeking by type of patient and source of care (%),Western Pacific,Lao People's Democratic Republic,2017,TRUE,Patient type,Inpatient,Private,2.52
+Care-seeking by type of patient and source of care (%),Europe,Tajikistan,2017,TRUE,Patient type,Total,Private,2.63
+Care-seeking by type of patient and source of care (%),Eastern Mediterranean,Jordan,2017,TRUE,Patient type,Total,NGO,2.95
+Care-seeking by type of patient and source of care (%),Africa,Benin,2017,TRUE,Patient type,Total,Private,24.32
+Care-seeking by type of patient and source of care (%),Eastern Mediterranean,Pakistan,2017,TRUE,Patient type,Total,Public,25.12
+Care-seeking by type of patient and source of care (%),Western Pacific,Lao People's Democratic Republic,2017,TRUE,Patient type,Outpatient,Private,25.3
+Care-seeking by type of patient and source of care (%),Africa,Benin,2017,TRUE,Patient type,Outpatient,Informal,28.26
+Care-seeking by type of patient and source of care (%),Western Pacific,Philippines,2017,TRUE,Patient type,Inpatient,Private,29.08
+Care-seeking by type of patient and source of care (%),South-East Asia,Indonesia,2017,TRUE,Patient type,Outpatient,Public,29.17
+Care-seeking by type of patient and source of care (%),Western Pacific,Lao People's Democratic Republic,2017,TRUE,Patient type,Total,Informal,3.01
+Care-seeking by type of patient and source of care (%),Western Pacific,Philippines,2017,TRUE,Patient type,Inpatient,Informal,3.13
+Care-seeking by type of patient and source of care (%),Europe,Albania,2017,TRUE,Patient type,Inpatient,Private,3.41
+Care-seeking by type of patient and source of care (%),Africa,Benin,2017,TRUE,Patient type,Outpatient,Private,31.9
+Care-seeking by type of patient and source of care (%),Western Pacific,Philippines,2017,TRUE,Patient type,Total,Private,32.17
+Care-seeking by type of patient and source of care (%),South-East Asia,Indonesia,2017,TRUE,Patient type,Total,Public,33.71
+Care-seeking by type of patient and source of care (%),Eastern Mediterranean,Jordan,2017,TRUE,Patient type,Inpatient,Private,33.94
+Care-seeking by type of patient and source of care (%),Eastern Mediterranean,Pakistan,2017,TRUE,Patient type,Inpatient,Public,34.39
+Care-seeking by type of patient and source of care (%),Western Pacific,Philippines,2017,TRUE,Patient type,Outpatient,Private,34.94
+Care-seeking by type of patient and source of care (%),South-East Asia,Indonesia,2017,TRUE,Patient type,Inpatient,Public,38.79
+Care-seeking by type of patient and source of care (%),Africa,Benin,2017,TRUE,Patient type,Outpatient,Public,39.64
+Care-seeking by type of patient and source of care (%),Africa,Sierra Leone,2017,TRUE,Patient type,Total,Informal,4
+Care-seeking by type of patient and source of care (%),Western Pacific,Lao People's Democratic Republic,2017,TRUE,Patient type,Outpatient,Informal,4.33
+Care-seeking by type of patient and source of care (%),Africa,Senegal,2017,TRUE,Patient type,Total,Informal,4.56
+Care-seeking by type of patient and source of care (%),Africa,Sierra Leone,2017,TRUE,Patient type,Inpatient,Private,4.59
+Care-seeking by type of patient and source of care (%),Eastern Mediterranean,Jordan,2017,TRUE,Patient type,Outpatient,NGO,4.72
+Care-seeking by type of patient and source of care (%),Europe,Tajikistan,2017,TRUE,Patient type,Outpatient,Private,4.92
+Care-seeking by type of patient and source of care (%),Eastern Mediterranean,Jordan,2017,TRUE,Patient type,Outpatient,Public,40.68
+Care-seeking by type of patient and source of care (%),Eastern Mediterranean,Jordan,2017,TRUE,Patient type,Total,Private,44.86
+Care-seeking by type of patient and source of care (%),Western Pacific,Philippines,2017,TRUE,Patient type,Total,Informal,5.75
+Care-seeking by type of patient and source of care (%),Africa,Senegal,2017,TRUE,Patient type,Inpatient,Private,5.84
+Care-seeking by type of patient and source of care (%),Eastern Mediterranean,Jordan,2017,TRUE,Patient type,Total,Public,51.79
+Care-seeking by type of patient and source of care (%),Eastern Mediterranean,Jordan,2017,TRUE,Patient type,Outpatient,Private,54.6
+Care-seeking by type of patient and source of care (%),Western Pacific,Philippines,2017,TRUE,Patient type,Outpatient,Public,56.92
+Care-seeking by type of patient and source of care (%),South-East Asia,Indonesia,2017,TRUE,Patient type,Outpatient,Private,59.12
+Care-seeking by type of patient and source of care (%),Africa,Benin,2017,TRUE,Patient type,Total,Public,59.46
+Care-seeking by type of patient and source of care (%),South-East Asia,Indonesia,2017,TRUE,Patient type,Total,Informal,6.27
+Care-seeking by type of patient and source of care (%),South-East Asia,Indonesia,2017,TRUE,Patient type,Total,Private,60.03
+Care-seeking by type of patient and source of care (%),South-East Asia,Indonesia,2017,TRUE,Patient type,Inpatient,Private,61.04
+Care-seeking by type of patient and source of care (%),Western Pacific,Philippines,2017,TRUE,Patient type,Total,Public,62
+Care-seeking by type of patient and source of care (%),Eastern Mediterranean,Jordan,2017,TRUE,Patient type,Inpatient,Public,64.25
+Care-seeking by type of patient and source of care (%),Eastern Mediterranean,Pakistan,2017,TRUE,Patient type,Inpatient,Private,65.48
+Care-seeking by type of patient and source of care (%),Western Pacific,Philippines,2017,TRUE,Patient type,Inpatient,Public,67.7
+Care-seeking by type of patient and source of care (%),Africa,Senegal,2017,TRUE,Patient type,Outpatient,Informal,7.22
+Care-seeking by type of patient and source of care (%),Africa,Sierra Leone,2017,TRUE,Patient type,Outpatient,Informal,7.24
+Care-seeking by type of patient and source of care (%),Europe,Albania,2017,TRUE,Patient type,Total,Private,7.83
+Care-seeking by type of patient and source of care (%),Western Pacific,Lao People's Democratic Republic,2017,TRUE,Patient type,Outpatient,Public,70.37
+Care-seeking by type of patient and source of care (%),Eastern Mediterranean,Pakistan,2017,TRUE,Patient type,Total,Private,73.8
+Care-seeking by type of patient and source of care (%),Africa,Senegal,2017,TRUE,Patient type,Outpatient,Public,75.58
+Care-seeking by type of patient and source of care (%),Western Pacific,Philippines,2017,TRUE,Patient type,Outpatient,Informal,8.09
+Care-seeking by type of patient and source of care (%),Africa,Sierra Leone,2017,TRUE,Patient type,Total,Private,8.12
+Care-seeking by type of patient and source of care (%),Eastern Mediterranean,Pakistan,2017,TRUE,Patient type,Outpatient,Private,81.23
+Care-seeking by type of patient and source of care (%),Africa,Sierra Leone,2017,TRUE,Patient type,Outpatient,Public,81.49
+Care-seeking by type of patient and source of care (%),Africa,Benin,2017,TRUE,Patient type,Inpatient,Public,81.66
+Care-seeking by type of patient and source of care (%),Western Pacific,Lao People's Democratic Republic,2017,TRUE,Patient type,Total,Public,82.44
+Care-seeking by type of patient and source of care (%),Africa,Senegal,2017,TRUE,Patient type,Total,Public,83.6
+Care-seeking by type of patient and source of care (%),Europe,Albania,2017,TRUE,Patient type,Outpatient,Public,87.57
+Care-seeking by type of patient and source of care (%),Africa,Sierra Leone,2017,TRUE,Patient type,Total,Public,87.88
+Care-seeking by type of patient and source of care (%),Europe,Albania,2017,TRUE,Patient type,Total,Public,91.35
+Care-seeking by type of patient and source of care (%),Africa,Senegal,2017,TRUE,Patient type,Inpatient,Public,92.59
+Care-seeking by type of patient and source of care (%),Europe,Tajikistan,2017,TRUE,Patient type,Outpatient,Public,94.72
+Care-seeking by type of patient and source of care (%),Africa,Sierra Leone,2017,TRUE,Patient type,Inpatient,Public,95.05
+Care-seeking by type of patient and source of care (%),Europe,Albania,2017,TRUE,Patient type,Inpatient,Public,95.57
+Care-seeking by type of patient and source of care (%),Western Pacific,Lao People's Democratic Republic,2017,TRUE,Patient type,Inpatient,Public,95.95
+Care-seeking by type of patient and source of care (%),Europe,Tajikistan,2017,TRUE,Patient type,Total,Public,97.06
+Care-seeking by type of patient and source of care (%),Europe,Tajikistan,2017,TRUE,Patient type,Inpatient,Public,99.68
